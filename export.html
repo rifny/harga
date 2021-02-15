@@ -1,9 +1,5 @@
 <html><head></head><body>
 
-<center>
-		<a target="_blank" href="export.php">EXPORT KE EXCEL</a><br><br>
-</center>
-	
 <style>.tablewrapper{margin: 10px auto;padding: 3px;border: 1px solid #acc6fb;background-color: #f5f5f5;margin-bottom: 20px;}.tabel{margin: 0 auto;border-spacing: 0;padding: 0;border: 0;width: 100%;}.tabel td{border: 1px solid #acc6fb;font-family: 'Open Sans', Rambla, serif;border-right: 0px;padding: 5px 10px;font-size: 12px;text-align: center;background-color: #eeeeee;color: #000;line-height: 20px;font-family: 'Open Sans', Nobile, Arial;}.tabel tr.head td{color: #fff;font-weight: bold;background-color: #7aacc7;}.tabel td.last{border-right: 1px solid #acc6fb;}.tabel td.title{font-weight: bold;vertical-align: middle;background-color: #f5f5f5;}.green{color: #008800;}.red{color: #ae1317;}.tabel tr.td2 td{background-color: #fafafa;}.tabel tr.td1 td{background-color: #fefefe;}</style>
 
 <div class="tablewrapper"><table class="tabel"><tbody>
@@ -17,7 +13,9 @@
 	<br/>Hasilnya akan muncul daftar semua produk dari Telkomsel Pulsa.
 
 	<br/><br/>Format selengkapnya: <a href="https://www.arcellindo.xyz/p/panduan-transaksi.html">Panduan Transaksi</a>
-		
+	header("Content-type: application/vnd-ms-excel");
+	header("Content-Disposition: attachment; filename=Daftar-Harga-Arcellindo.xls");
+
 		<tr class="head">
 			<th style="border: none" colspan="6">TELKOMSEL</th>
 		</tr>
