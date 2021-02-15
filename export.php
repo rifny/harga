@@ -3,19 +3,18 @@
 <style>.tablewrapper{margin: 10px auto;padding: 3px;border: 1px solid #acc6fb;background-color: #f5f5f5;margin-bottom: 20px;}.tabel{margin: 0 auto;border-spacing: 0;padding: 0;border: 0;width: 100%;}.tabel td{border: 1px solid #acc6fb;font-family: 'Open Sans', Rambla, serif;border-right: 0px;padding: 5px 10px;font-size: 12px;text-align: center;background-color: #eeeeee;color: #000;line-height: 20px;font-family: 'Open Sans', Nobile, Arial;}.tabel tr.head td{color: #fff;font-weight: bold;background-color: #7aacc7;}.tabel td.last{border-right: 1px solid #acc6fb;}.tabel td.title{font-weight: bold;vertical-align: middle;background-color: #f5f5f5;}.green{color: #008800;}.red{color: #ae1317;}.tabel tr.td2 td{background-color: #fafafa;}.tabel tr.td1 td{background-color: #fefefe;}</style>
 
 <div class="tablewrapper"><table class="tabel"><tbody>
-	<?php			
-		date_default_timezone_set('Asia/Jakarta');	
-		echo 'Tanggal: ' . date('l, d-m-Y  h:i:s a');
-		
-		echo '<br/>Harga bisa berubah sewaktu-waktu tanpa pemberitahuan.
-		<br/>Format cek harga : HARGA.kode produk.pin
-		<br/>contoh : HARGA.s.1234
-		<br/>Hasilnya akan muncul daftar semua produk yang kode awalnya S.
-		<br/><br/>Format cek harga per kartu: HARGAE.nama kartu.pin
-		<br/>Contoh : HARGAE.telkomsel pulsa.1234 (nama kartu cek tabel di bawah ini ya)
-		<br/>Hasilnya akan muncul daftar semua produk dari Telkomsel Pulsa.
-		<br/>Format selengkapnya: <a href="https://www.arcellindo.xyz/p/panduan-transaksi.html">Panduan Transaksi</a>';
+	Tanggal: Sunday, 14-02-2021  05:24:37 pm<br/>Harga bisa berubah sewaktu-waktu tanpa pemberitahuan.
+	<br/><br/>Untuk memudahkan pencarian di browser gunakan fitur Find in Page (ctrl+F).
+	<br/><br/>Format cek harga : HARGA.kode produk.pin
+	<br/>Contoh : HARGA.s.1234
+	<br/>Hasilnya akan muncul daftar semua produk yang kode awalnya S.
+	<br/><br/>Format cek harga per kartu: HARGAE.nama kartu.pin
+	<br/>Contoh : HARGAE.telkomsel pulsa.1234 (nama kartu cek tabel di bawah ini ya)
+	<br/>Hasilnya akan muncul daftar semua produk dari Telkomsel Pulsa.
 
+	<br/><br/>Format selengkapnya: <a href="https://www.arcellindo.xyz/p/panduan-transaksi.html">Panduan Transaksi</a>
+
+	<?php			
 		header("Content-type: application/vnd-ms-excel");
 		header("Content-Disposition: attachment; filename=Daftar-Harga-Arcellindo.xls");
 	?>
