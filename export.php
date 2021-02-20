@@ -3,7 +3,7 @@
 <style>.tablewrapper{margin: 10px auto;padding: 3px;border: 1px solid #acc6fb;background-color: #f5f5f5;margin-bottom: 20px;}.tabel{margin: 0 auto;border-spacing: 0;padding: 0;border: 0;width: 100%;}.tabel td{border: 1px solid #acc6fb;font-family: 'Open Sans', Rambla, serif;border-right: 0px;padding: 5px 10px;font-size: 12px;text-align: center;background-color: #eeeeee;color: #000;line-height: 20px;font-family: 'Open Sans', Nobile, Arial;}.tabel tr.head td{color: #fff;font-weight: bold;background-color: #7aacc7;}.tabel td.last{border-right: 1px solid #acc6fb;}.tabel td.title{font-weight: bold;vertical-align: middle;background-color: #f5f5f5;}.green{color: #008800;}.red{color: #ae1317;}.tabel tr.td2 td{background-color: #fafafa;}.tabel tr.td1 td{background-color: #fefefe;}</style>
 
 <div class="tablewrapper"><table class="tabel"><tbody>
-	Tanggal: Sunday, 14-02-2021  05:24:37 pm<br/>Harga bisa berubah sewaktu-waktu tanpa pemberitahuan.
+	Tanggal: Sabtu, 20-02-2021  01:20:27 pm<br/>Harga bisa berubah sewaktu-waktu tanpa pemberitahuan.
 	<br/><br/>Untuk memudahkan pencarian di browser gunakan fitur Find in Page (ctrl+F).
 	<br/><br/>Format cek harga : HARGA.kode produk.pin
 	<br/>Contoh : HARGA.s.1234
@@ -30,33 +30,153 @@
 			</tr>						
 										
 				<tr>
+					<td>SMO5</td>
+					<td>Tsel Mochan 5rb (7hr)</td>
+					<td>5.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO10</td>
+					<td>Tsel Mochan 10rb (15hr)</td>
+					<td>10.200</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO15</td>
+					<td>Tsel Mochan 15rb</td>
+					<td>14.950</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO20</td>
+					<td>Tsel Mochan 20rb (30hr)</td>
+					<td>20.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO25</td>
+					<td>Tsel Mochan 25rb (30hr)</td>
+					<td>24.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO30</td>
+					<td>Tsel Mochan 30rb</td>
+					<td>29.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO35</td>
+					<td>Tsel Mochan 35rb</td>
+					<td>35.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO40</td>
+					<td>Tsel Mochan 40rb</td>
+					<td>39.450</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO45</td>
+					<td>Tsel Mochan 45rb</td>
+					<td>45.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO50</td>
+					<td>Tsel Mochan 50rb (45hr)</td>
+					<td>49.800</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO55</td>
+					<td>Tsel Mochan 55rb</td>
+					<td>55.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO60</td>
+					<td>Tsel Mochan 60rb</td>
+					<td>60.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO65</td>
+					<td>Tsel Mochan 65rb</td>
+					<td>65.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO70</td>
+					<td>Tsel Mochan 70rb</td>
+					<td>70.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO75</td>
+					<td>Tsel Mochan 75rb</td>
+					<td>73.450</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO80</td>
+					<td>Tsel Mochan 80rb</td>
+					<td>80.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO85</td>
+					<td>Tsel Mochan 85rb</td>
+					<td>85.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO90</td>
+					<td>Tsel Mochan 90rb</td>
+					<td>90.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO95</td>
+					<td>Tsel Mochan 95rb</td>
+					<td>95.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SMO100</td>
+					<td>Tsel Mochan 100rb (60hr)</td>
+					<td>96.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
 					<td>S1</td>
 					<td>Tsel 1rb</td>
-					<td>1.700</td> <td style="color:black;">Ada</td>				
+					<td>1.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>S2</td>
 					<td>Tsel 2rb</td>
-					<td>2.800</td> <td style="color:black;">Ada</td>				
+					<td>2.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>S3</td>
 					<td>Tsel 3rb</td>
-					<td>3.800</td> <td style="color:black;">Ada</td>				
+					<td>3.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>S4</td>
 					<td>Tsel 4rb</td>
-					<td>4.800</td> <td style="color:black;">Ada</td>				
+					<td>4.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>S5</td>
 					<td>Tsel 5rb (7hr)</td>
-					<td>5.400</td> <td style="color:black;">Ada</td>				
+					<td>5.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -74,19 +194,19 @@
 				<tr>
 					<td>S20</td>
 					<td>Tsel 20rb (30hr)</td>
-					<td>20.050</td> <td style="color:black;">Ada</td>				
+					<td>20.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>S25</td>
 					<td>Tsel 25rb (30hr)</td>
-					<td>25.000</td> <td style="color:black;">Ada</td>				
+					<td>24.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>S30</td>
 					<td>Tsel 30rb</td>
-					<td>29.900</td> <td style="color:black;">Ada</td>				
+					<td>29.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -98,7 +218,7 @@
 				<tr>
 					<td>S40</td>
 					<td>Tsel 40rb</td>
-					<td>39.700</td> <td style="color:black;">Ada</td>				
+					<td>39.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -110,7 +230,7 @@
 				<tr>
 					<td>S50</td>
 					<td>Tsel 50rb (45hr)</td>
-					<td>49.950</td> <td style="color:black;">Ada</td>				
+					<td>49.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -170,7 +290,7 @@
 				<tr>
 					<td>S100</td>
 					<td>Tsel 100rb (60hr)</td>
-					<td>96.850</td> <td style="color:black;">Ada</td>				
+					<td>96.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -192,49 +312,6 @@
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
-				<td colspan="6" class="center last" style="background-color: #4784a5;">KARTU -->>> Telkomsel Pulsa Alternatif </td>
-			<tr>		
-			<tr class="head">
-				<td class="center" width="27%">Kode</td><td class="center" width="35%">Produk</td><td class="center" width="22%">Harga</td><td class="center last" width="16%">Status</td>
-			</tr>						
-										
-				<tr>
-					<td>SA5</td>
-					<td>Tsel 5rb alternatif</td>
-					<td>5.500</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SA10</td>
-					<td>Tsel 10rb alternatif</td>
-					<td>10.250</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SA20</td>
-					<td>Tsel 20rb alternatif</td>
-					<td>20.050</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SA25</td>
-					<td>Tsel 25rb alternatif</td>
-					<td>25.050</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SA50</td>
-					<td>Tsel 50rb alternatif</td>
-					<td>50.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SA100</td>
-					<td>Tsel 100rb alternatif</td>
-					<td>96.950</td> <td style="color:black;">Ada</td>				
-				</tr>
-				<tr><th style="border: none" colspan="6"><br></th></tr>				
-			<tr class="head">
 				<td colspan="6" class="center last" style="background-color: #4784a5;">KARTU -->>> Telkomsel Pulsa UNIK</td>
 			<tr>		
 			<tr class="head">
@@ -244,331 +321,331 @@
 				<tr>
 					<td>SU1</td>
 					<td>Tsel Unik 1rb (+0hr)</td>
-					<td>1.800</td> <td style="color:black;">Ada</td>				
+					<td>1.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU2</td>
 					<td>Tsel Unik 2rb (+0hr)</td>
-					<td>2.900</td> <td style="color:black;">Ada</td>				
+					<td>2.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU3</td>
 					<td>Tsel Unik 3rb (+0hr)</td>
-					<td>3.950</td> <td style="color:black;">Ada</td>				
+					<td>3.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU5</td>
 					<td>Tsel Unik 5rb (+0hr)</td>
-					<td>5.700</td> <td style="color:black;">Ada</td>				
+					<td>5.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU10</td>
 					<td>Tsel Unik 10rb (+0hr)</td>
-					<td>11.000</td> <td style="color:black;">Ada</td>				
+					<td>10.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU15</td>
 					<td>Tsel Unik 15rb (+0hr)</td>
-					<td>15.100</td> <td style="color:black;">Ada</td>				
+					<td>15.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU17</td>
 					<td>Tsel Unik 17rb (+0hr)</td>
-					<td>16.850</td> <td style="color:black;">Ada</td>				
+					<td>16.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU20</td>
 					<td>Tsel Unik 20rb (+0hr)</td>
-					<td>19.950</td> <td style="color:black;">Ada</td>				
+					<td>20.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU22</td>
 					<td>Tsel Unik 22rb (+0hr)</td>
-					<td>21.800</td> <td style="color:black;">Ada</td>				
+					<td>22.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU25</td>
 					<td>Tsel Unik 25rb (+0hr)</td>
-					<td>24.300</td> <td style="color:black;">Ada</td>				
+					<td>24.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU30</td>
 					<td>Tsel Unik 30rb (+0hr)</td>
-					<td>29.150</td> <td style="color:black;">Ada</td>				
+					<td>29.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU31</td>
 					<td>Tsel Unik 31rb (+0hr)</td>
-					<td>31.000</td> <td style="color:black;">Ada</td>				
+					<td>30.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU35</td>
 					<td>Tsel Unik 35rb (+0hr)</td>
-					<td>33.800</td> <td style="color:black;">Ada</td>				
+					<td>34.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU39</td>
 					<td>Tsel Unik 39rb (+0hr)</td>
-					<td>37.900</td> <td style="color:black;">Ada</td>				
+					<td>37.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU40</td>
 					<td>Tsel Unik 40rb (+0hr)</td>
-					<td>38.350</td> <td style="color:black;">Ada</td>				
+					<td>38.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU41</td>
 					<td>Tsel Unik 41rb (+0hr)</td>
-					<td>39.600</td> <td style="color:black;">Ada</td>				
+					<td>38.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU45</td>
 					<td>Tsel Unik 45rb (+0hr)</td>
-					<td>43.050</td> <td style="color:black;">Ada</td>				
+					<td>43.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU47</td>
 					<td>Tsel Unik 47rb (+0hr)</td>
-					<td>44.850</td> <td style="color:black;">Ada</td>				
+					<td>45.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU50</td>
 					<td>Tsel Unik 50rb (+0hr)</td>
-					<td>47.900</td> <td style="color:black;">Ada</td>				
+					<td>48.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU55</td>
 					<td>Tsel Unik 55rb (+0hr)</td>
-					<td>52.150</td> <td style="color:black;">Ada</td>				
+					<td>52.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU56</td>
 					<td>Tsel Unik 56rb (+0hr)</td>
-					<td>53.050</td> <td style="color:black;">Ada</td>				
+					<td>52.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU57</td>
 					<td>Tsel Unik 57rb (+0hr)</td>
-					<td>53.900</td> <td style="color:black;">Ada</td>				
+					<td>53.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU58</td>
 					<td>Tsel Unik 58rb (+0hr)</td>
-					<td>54.750</td> <td style="color:black;">Ada</td>				
+					<td>54.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU60</td>
 					<td>Tsel Unik 60rb (+0hr)</td>
-					<td>56.450</td> <td style="color:black;">Ada</td>				
+					<td>56.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU65</td>
 					<td>Tsel Unik 65rb (+0hr)</td>
-					<td>60.750</td> <td style="color:black;">Ada</td>				
+					<td>61.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU67</td>
 					<td>Tsel Unik 67rb (+0hr)</td>
-					<td>62.450</td> <td style="color:black;">Ada</td>				
+					<td>62.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU70</td>
 					<td>Tsel Unik 70rb (+0hr)</td>
-					<td>65.050</td> <td style="color:black;">Ada</td>				
+					<td>65.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU75</td>
 					<td>Tsel Unik 75rb (+0hr)</td>
-					<td>69.400</td> <td style="color:black;">Ada</td>				
+					<td>70.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU76</td>
 					<td>Tsel Unik 76rb (+0hr)</td>
-					<td>70.200</td> <td style="color:black;">Ada</td>				
+					<td>69.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU80</td>
 					<td>Tsel Unik 80rb (+0hr)</td>
-					<td>73.700</td> <td style="color:black;">Ada</td>				
+					<td>74.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU85</td>
 					<td>Tsel Unik 85rb (+0hr)</td>
-					<td>78.000</td> <td style="color:black;">Ada</td>				
+					<td>78.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU90</td>
 					<td>Tsel Unik 90rb (+0hr)</td>
-					<td>82.400</td> <td style="color:black;">Ada</td>				
+					<td>83.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU95</td>
 					<td>Tsel Unik 95rb (+0hr)</td>
-					<td>86.700</td> <td style="color:black;">Ada</td>				
+					<td>87.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU100</td>
 					<td>Tsel Unik 100rb (+0hr)</td>
-					<td>90.950</td> <td style="color:black;">Ada</td>				
+					<td>92.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU105</td>
 					<td>Tsel Unik 105rb (+0hr)</td>
-					<td>95.400</td> <td style="color:black;">Ada</td>				
+					<td>96.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU110</td>
 					<td>Tsel Unik 110rb (+0hr)</td>
-					<td>99.700</td> <td style="color:black;">Ada</td>				
+					<td>100.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU120</td>
 					<td>Tsel Unik 120rb (+0hr)</td>
-					<td>108.450</td> <td style="color:black;">Ada</td>				
+					<td>109.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU125</td>
 					<td>Tsel Unik 125rb (+0hr)</td>
-					<td>112.850</td> <td style="color:black;">Ada</td>				
+					<td>113.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU134</td>
 					<td>Tsel Unik 134rb (+0hr)</td>
-					<td>120.700</td> <td style="color:black;">Ada</td>				
+					<td>121.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU140</td>
 					<td>Tsel Unik 140rb (+0hr)</td>
-					<td>125.950</td> <td style="color:black;">Ada</td>				
+					<td>127.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU145</td>
 					<td>Tsel Unik 145rb (+0hr)</td>
-					<td>130.200</td> <td style="color:black;">Ada</td>				
+					<td>131.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU150</td>
 					<td>Tsel Unik 150rb (+0hr)</td>
-					<td>134.600</td> <td style="color:black;">Ada</td>				
+					<td>135.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU180</td>
 					<td>Tsel Unik 180rb (+0hr)</td>
-					<td>160.750</td> <td style="color:black;">Ada</td>				
+					<td>162.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU200</td>
 					<td>Tsel Unik 200rb (+0hr)</td>
-					<td>179.000</td> <td style="color:black;">Ada</td>				
+					<td>180.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU220</td>
 					<td>Tsel Unik 220rb (+0hr)</td>
-					<td>196.600</td> <td style="color:black;">Ada</td>				
+					<td>198.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU250</td>
 					<td>Tsel Unik 250rb (+0hr)</td>
-					<td>222.550</td> <td style="color:black;">Ada</td>				
+					<td>224.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU270</td>
 					<td>Tsel Unik 270rb (+0hr)</td>
-					<td>240.000</td> <td style="color:black;">Ada</td>				
+					<td>242.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU300</td>
 					<td>Tsel Unik 300rb (+0hr)</td>
-					<td>265.550</td> <td style="color:black;">Ada</td>				
+					<td>267.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU400</td>
 					<td>Tsel Unik 400rb (+0hr)</td>
-					<td>365.200</td> <td style="color:black;">Ada</td>				
+					<td>371.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU500</td>
 					<td>Tsel Unik 500rb (+0hr)</td>
-					<td>453.900</td> <td style="color:black;">Ada</td>				
+					<td>462.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU600</td>
 					<td>Tsel Unik 600rb (+0hr)</td>
-					<td>542.550</td> <td style="color:black;">Ada</td>				
+					<td>552.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU700</td>
 					<td>Tsel Unik 700rb (+0hr)</td>
-					<td>632.250</td> <td style="color:black;">Ada</td>				
+					<td>643.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU800</td>
 					<td>Tsel Unik 800rb (+0hr)</td>
-					<td>720.900</td> <td style="color:black;">Ada</td>				
+					<td>733.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU900</td>
 					<td>Tsel Unik 900rb (+0hr)</td>
-					<td>809.800</td> <td style="color:black;">Ada</td>				
+					<td>824.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SU999</td>
 					<td>Tsel Unik 999rb (+0hr)</td>
-					<td>898.900</td> <td style="color:black;">Ada</td>				
+					<td>914.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -587,145 +664,145 @@
 				<tr>
 					<td>STP10</td>
 					<td>Tsel Transfer 10rb (+0hr)</td>
-					<td>10.450</td> <td style="color:black;">Ada</td>				
+					<td>10.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP15</td>
 					<td>Tsel Transfer 15rb (+0hr)</td>
-					<td>14.900</td> <td style="color:black;">Ada</td>				
+					<td>15.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP20</td>
 					<td>Tsel Transfer 20rb (+0hr)</td>
-					<td>20.450</td> <td style="color:black;">Ada</td>				
+					<td>20.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP25</td>
 					<td>Tsel Transfer 25rb (+0hr)</td>
-					<td>24.750</td> <td style="color:black;">Ada</td>				
+					<td>24.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP30</td>
 					<td>Tsel Transfer 30rb (+0hr)</td>
-					<td>29.050</td> <td style="color:black;">Ada</td>				
+					<td>29.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP35</td>
 					<td>Tsel Transfer 35rb (+0hr)</td>
-					<td>33.350</td> <td style="color:black;">Ada</td>				
+					<td>33.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP40</td>
 					<td>Tsel Transfer 40rb (+0hr)</td>
-					<td>37.650</td> <td style="color:black;">Ada</td>				
+					<td>38.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP45</td>
 					<td>Tsel Transfer 45rb (+0hr)</td>
-					<td>41.950</td> <td style="color:black;">Ada</td>				
+					<td>42.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP50</td>
 					<td>Tsel Transfer 50rb (+0hr)</td>
-					<td>46.700</td> <td style="color:black;">Ada</td>				
+					<td>47.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP55</td>
 					<td>Tsel Transfer 55rb (+0hr)</td>
-					<td>51.000</td> <td style="color:black;">Ada</td>				
+					<td>51.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP60</td>
 					<td>Tsel Transfer 60rb (+0hr)</td>
-					<td>55.300</td> <td style="color:black;">Ada</td>				
+					<td>56.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP65</td>
 					<td>Tsel Transfer 65rb (+0hr)</td>
-					<td>59.600</td> <td style="color:black;">Ada</td>				
+					<td>60.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP70</td>
 					<td>Tsel Transfer 70rb (+0hr)</td>
-					<td>64.050</td> <td style="color:black;">Ada</td>				
+					<td>64.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP75</td>
 					<td>Tsel Transfer 75rb (+0hr)</td>
-					<td>68.450</td> <td style="color:black;">Ada</td>				
+					<td>69.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP80</td>
 					<td>Tsel Transfer 80rb (+0hr)</td>
-					<td>72.850</td> <td style="color:black;">Ada</td>				
+					<td>73.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP85</td>
 					<td>Tsel Transfer 85rb (+0hr)</td>
-					<td>77.250</td> <td style="color:black;">Ada</td>				
+					<td>77.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP90</td>
 					<td>Tsel Transfer 90rb (+0hr)</td>
-					<td>81.650</td> <td style="color:black;">Ada</td>				
+					<td>82.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP95</td>
 					<td>Tsel Transfer 95rb (+0hr)</td>
-					<td>86.050</td> <td style="color:black;">Ada</td>				
+					<td>86.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP100</td>
 					<td>Tsel Transfer 100rb (+0hr)</td>
-					<td>90.750</td> <td style="color:black;">Ada</td>				
+					<td>91.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP150</td>
 					<td>Tsel Transfer 150rb (+0hr)</td>
-					<td>133.400</td> <td style="color:black;">Ada</td>				
+					<td>136.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP200</td>
 					<td>Tsel Transfer 200rb (+0hr)</td>
-					<td>177.250</td> <td style="color:black;">Ada</td>				
+					<td>181.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP300</td>
 					<td>Tsel Transfer 300rb (+0hr)</td>
-					<td>266.150</td> <td style="color:black;">Ada</td>				
+					<td>272.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP400</td>
 					<td>Tsel Transfer 400rb (+0hr)</td>
-					<td>353.650</td> <td style="color:black;">Ada</td>				
+					<td>361.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STP500</td>
 					<td>Tsel Transfer 500rb (+0hr)</td>
-					<td>440.150</td> <td style="color:black;">Ada</td>				
+					<td>450.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -774,7 +851,7 @@
 				<tr>
 					<td>STZA2</td>
 					<td>Tsel telp 370mnt sesama+30mnt allOpr 3hr (ZONA 1-8)</td>
-					<td>13.900</td> <td style="color:black;">Ada</td>				
+					<td>14.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -846,31 +923,31 @@
 				<tr>
 					<td>STZN2</td>
 					<td>Tsel telp 370mnt sesama+30mnt allOpr 3hr (All ZONA)</td>
-					<td>15.300</td> <td style="color:black;">Ada</td>				
+					<td>19.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STZN3</td>
 					<td>Tsel telp 550mnt sesama+50mnt allOpr 7hr (All ZONA)</td>
-					<td>23.850</td> <td style="color:black;">Ada</td>				
+					<td>24.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STZN4</td>
 					<td>Tsel telp 1.200mnt sesama+100mnt allOpr 15hr (All ZONA)</td>
-					<td>47.650</td> <td style="color:black;">Ada</td>				
+					<td>45.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STZN5</td>
 					<td>Tsel telp 2.000mnt sesama+100mnt allOpr (All ZONA)</td>
-					<td>69.900</td> <td style="color:black;">Ada</td>				
+					<td>70.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>STZN6</td>
 					<td>Tsel telp 6.250mnt sesama+250mnt allOpr (All ZONA)</td>
-					<td>111.950</td> <td style="color:black;">Ada</td>				
+					<td>100.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1020,7 +1097,7 @@
 				<tr>
 					<td>ST110</td>
 					<td>Tsel telp 9000mnt sesama</td>
-					<td>98.600</td> <td style="color:black;">Ada</td>				
+					<td>100.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1050,7 +1127,7 @@
 				<tr>
 					<td>SS20</td>
 					<td>Tsel 1.500 SMS allOpr (kuota SMS sesuai zona)</td>
-					<td>20.700</td> <td style="color:black;">Ada</td>				
+					<td>20.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1093,7 +1170,7 @@
 				<tr>
 					<td>SDHR1</td>
 					<td>Tsel Harian 100MB 1hr</td>
-					<td>3.900</td> <td style="color:black;">Ada</td>				
+					<td>2.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1201,7 +1278,7 @@
 				<tr>
 					<td>SDHR19</td>
 					<td>Tsel Harian 1.5GB 14hr</td>
-					<td>31.200</td> <td style="color:black;">Ada</td>				
+					<td>30.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1213,25 +1290,25 @@
 				<tr>
 					<td>SDHR21</td>
 					<td>Tsel 250MB</td>
-					<td>5.000</td> <td style="color:black;">Ada</td>				
+					<td>5.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF50</td>
 					<td>Tsel 50MB 7hr</td>
-					<td>2.250</td> <td style="color:black;">Ada</td>				
+					<td>2.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF100</td>
 					<td>Tsel 100MB 7hr</td>
-					<td>2.750</td> <td style="color:black;">Ada</td>				
+					<td>3.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF250</td>
 					<td>Tsel 250MB 7hr</td>
-					<td>5.250</td> <td style="color:black;">Ada</td>				
+					<td>5.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1249,31 +1326,31 @@
 				<tr>
 					<td>SDF750</td>
 					<td>Tsel 750MB</td>
-					<td>15.550</td> <td style="color:black;">Ada</td>				
+					<td>13.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF1</td>
 					<td>Tsel 1GB</td>
-					<td>16.650</td> <td style="color:black;">Ada</td>				
+					<td>16.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF2</td>
 					<td>Tsel 2GB</td>
-					<td>31.650</td> <td style="color:black;">Ada</td>				
+					<td>30.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF3</td>
 					<td>Tsel 3GB</td>
-					<td>46.150</td> <td style="color:black;">Ada</td>				
+					<td>44.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDF4</td>
 					<td>Tsel 4GB</td>
-					<td>59.650</td> <td style="color:black;">Ada</td>				
+					<td>58.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1327,13 +1404,13 @@
 				<tr>
 					<td>SD12GB</td>
 					<td>Tsel 12GB</td>
-					<td>98.450</td> <td style="color:black;">Ada</td>				
+					<td>98.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SD50GB</td>
 					<td>Tsel 50GB</td>
-					<td>196.100</td> <td style="color:black;">Ada</td>				
+					<td>197.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1429,7 +1506,7 @@
 				<tr>
 					<td>SMC75</td>
 					<td>Tsel 8.5GB sd 3.5GB+2GB OMG</td>
-					<td>74.200</td> <td style="color:black;">Ada</td>				
+					<td>74.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1580,7 +1657,7 @@
 				<tr>
 					<td>SDBUZA1</td>
 					<td>Tsel 1GB All (Zona 1-4)</td>
-					<td>26.600</td> <td style="color:black;">Ada</td>				
+					<td>26.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1628,7 +1705,7 @@
 				<tr>
 					<td>SDBUZA100</td>
 					<td>Tsel 17GB+2GB OMG+300mnt+100 SMS (Zona 1-4)</td>
-					<td>124.950</td> <td style="color:black;">Ada</td>				
+					<td>124.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1640,25 +1717,25 @@
 				<tr>
 					<td>SDBUZB1</td>
 					<td>Tsel 1GB All (Zona 5-8)</td>
-					<td>26.600</td> <td style="color:black;">Ada</td>				
+					<td>26.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZB2</td>
 					<td>Tsel 3GB+1GB OMG (Zona 5-8)</td>
-					<td>40.600</td> <td style="color:black;">Ada</td>				
+					<td>40.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZB4</td>
 					<td>Tsel 5GB+2GB OMG (Zona 5-8)</td>
-					<td>65.900</td> <td style="color:black;">Ada</td>				
+					<td>65.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZB8</td>
 					<td>Tsel 8GB+2GB OMG (Zona 5-8)</td>
-					<td>90.400</td> <td style="color:black;">Ada</td>				
+					<td>90.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1676,7 +1753,7 @@
 				<tr>
 					<td>SDBUZB50</td>
 					<td>Tsel 50GB+2GB OMG (Zona 5-8)</td>
-					<td>205.000</td> <td style="color:black;">Ada</td>				
+					<td>203.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1688,7 +1765,7 @@
 				<tr>
 					<td>SDBUZB100</td>
 					<td>Tsel 17GB+2GB OMG+300mnt+100 SMS (Zona 5-8)</td>
-					<td>126.350</td> <td style="color:black;">Ada</td>				
+					<td>126.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1706,19 +1783,19 @@
 				<tr>
 					<td>SDBUZC2</td>
 					<td>Tsel 3GB+1GB OMG (Zona 9-11)</td>
-					<td>43.700</td> <td style="color:black;">Ada</td>				
+					<td>43.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZC4</td>
 					<td>Tsel 5GB+2GB OMG (Zona 9-11)</td>
-					<td>80.750</td> <td style="color:black;">Ada</td>				
+					<td>76.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZC8</td>
 					<td>Tsel 8GB+2GB OMG (Zona 9-11)</td>
-					<td>100.100</td> <td style="color:black;">Ada</td>				
+					<td>100.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1772,7 +1849,7 @@
 				<tr>
 					<td>SDBUZN3</td>
 					<td>Tsel 3GB+1GB OMG (All Zona)</td>
-					<td>43.150</td> <td style="color:black;">Ada</td>				
+					<td>45.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1796,25 +1873,25 @@
 				<tr>
 					<td>SDBUZN12</td>
 					<td>Tsel 12GB+2GB OMG (All Zona)</td>
-					<td>99.800</td> <td style="color:black;">Ada</td>				
+					<td>101.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZN25</td>
 					<td>Tsel 25GB+2GB OMG (All Zona)</td>
-					<td>151.100</td> <td style="color:black;">Ada</td>				
+					<td>167.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZN50</td>
 					<td>Tsel 50GB+2GB OMG (All Zona)</td>
-					<td>181.100</td> <td style="color:black;">Ada</td>				
+					<td>191.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDBUZN60</td>
 					<td>Tsel 4,5GB+2GB OMG+100mnt+60 SMS (All Zona)</td>
-					<td>92.500</td> <td style="color:black;">Ada</td>				
+					<td>90.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1869,7 +1946,7 @@
 				<tr>
 					<td>SDASZA8</td>
 					<td>Tsel AS 8GB+2GB OMG  (ZONA 1-8)</td>
-					<td>86.200</td> <td style="color:black;">Ada</td>				
+					<td>86.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1917,7 +1994,7 @@
 				<tr>
 					<td>SDASZN8</td>
 					<td>Tsel AS 8GB+2GB OMG (All ZONA)</td>
-					<td>88.200</td> <td style="color:black;">Ada</td>				
+					<td>88.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -1984,7 +2061,7 @@
 				<tr>
 					<td>SDLPZA120</td>
 					<td>Tsel LOOP 6GB+120mnt (ZONA 1-8)</td>
-					<td>77.350</td> <td style="color:black;">Ada</td>				
+					<td>74.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -2045,7 +2122,7 @@
 				<tr>
 					<td>SDSIMZA2TS</td>
 					<td>Tsel SIMPATI 3GB+1GB OMG+60mnt+SMS (All ZONA)</td>
-					<td>60.650</td> <td style="color:black;">Ada</td>				
+					<td>60.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -2057,19 +2134,19 @@
 				<tr>
 					<td>SDSIMZA4</td>
 					<td>Tsel SIMPATI 5GB+2GB OMG (ZONA 1-8)</td>
-					<td>67.200</td> <td style="color:black;">Ada</td>				
+					<td>67.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDSIMZA12</td>
 					<td>Tsel SIMPATI 12GB+2GB OMG (ZONA 1-8)</td>
-					<td>99.400</td> <td style="color:black;">Ada</td>				
+					<td>99.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDSIMZA25</td>
 					<td>Tsel SIMPATI 25GB+2GB OMG (ZONA 1-8)</td>
-					<td>149.700</td> <td style="color:black;">Ada</td>				
+					<td>148.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -2081,7 +2158,7 @@
 				<tr>
 					<td>SDSIMZA60</td>
 					<td>Tsel SIMPATI 4,5GB+2GB OMG+100mnt+60SMS (ZONA 1-8)</td>
-					<td>69.200</td> <td style="color:black;">Ada</td>				
+					<td>69.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3261,13 +3338,13 @@
 				<tr>
 					<td>SDGM3</td>
 					<td>Tsel Gigamax 7GB+28GB Maxtream</td>
-					<td>95.650</td> <td style="color:black;">Ada</td>				
+					<td>95.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SDGM4</td>
 					<td>Tsel Gigamax 15GB+40GB Maxtream</td>
-					<td>144.250</td> <td style="color:black;">Ada</td>				
+					<td>144.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3407,7 +3484,7 @@
 				<tr>
 					<td>SVG1</td>
 					<td>Vcr Tsel 1GB+500MB youtube+30GB Games+50 Diamond FF</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>22.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3419,31 +3496,31 @@
 				<tr>
 					<td>SVKS2</td>
 					<td>Vcr Tsel 2.5GB 5hr (khusus KALSEL)</td>
-					<td>10.350</td> <td style="color:black;">Ada</td>				
+					<td>9.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVKS3</td>
 					<td>Vcr Tsel 3.5GB 7hr (khusus KALSEL)</td>
-					<td>17.350</td> <td style="color:black;">Ada</td>				
+					<td>16.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVSU1</td>
 					<td>Vcr Tsel 1,5GB 3hr (khusus SUMBAGUT)</td>
-					<td>7.900</td> <td style="color:black;">Ada</td>				
+					<td>7.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVSU2</td>
 					<td>Vcr Tsel 2.5GB 5hr (khusus SUMBAGUT)</td>
-					<td>11.100</td> <td style="color:black;">Ada</td>				
+					<td>10.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVSU3</td>
 					<td>Vcr Tsel 3.5GB 7hr (khusus SUMBAGUT)</td>
-					<td>17.750</td> <td style="color:black;">Ada</td>				
+					<td>17.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3455,13 +3532,13 @@
 				<tr>
 					<td>SVJA2</td>
 					<td>Vcr Tsel 1GB+1,5GB 5hr (khusus Jabo)</td>
-					<td>13.250</td> <td style="color:black;">Ada</td>				
+					<td>12.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVJA3</td>
 					<td>Vcr Tsel 1GB+500MB MID 7hr (khusus Jabo)</td>
-					<td>18.250</td> <td style="color:black;">Ada</td>				
+					<td>18.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3479,7 +3556,7 @@
 				<tr>
 					<td>SVJA6</td>
 					<td>Vcr Tsel 2GB+2GB MAX (khusus Jabo)</td>
-					<td>38.650</td> <td style="color:black;">Ada</td>				
+					<td>38.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3491,7 +3568,7 @@
 				<tr>
 					<td>SVJA8</td>
 					<td>Vcr Tsel 9GB+2GB MAX (khusus Jabo)</td>
-					<td>68.750</td> <td style="color:black;">Ada</td>				
+					<td>68.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3527,13 +3604,13 @@
 				<tr>
 					<td>SVJB6</td>
 					<td>Vcr Tsel 6GB+2GB Z1+2GB OMG (khusus Jabar)</td>
-					<td>54.650</td> <td style="color:black;">Ada</td>				
+					<td>54.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVJB7</td>
 					<td>Vcr Tsel 9GB+3GB Z1+2GB OMG (khusus Jabar)</td>
-					<td>71.100</td> <td style="color:black;">Ada</td>				
+					<td>69.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3551,7 +3628,7 @@
 				<tr>
 					<td>SVJJ3</td>
 					<td>Vcr Tsel 2.5GB 3hr (khusus Jateng & DIY)</td>
-					<td>17.350</td> <td style="color:black;">Ada</td>				
+					<td>17.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3563,13 +3640,13 @@
 				<tr>
 					<td>SVJJ5</td>
 					<td>Vcr Tsel 3.5GB 7hr (khusus Jateng & DIY)</td>
-					<td>23.450</td> <td style="color:black;">Ada</td>				
+					<td>23.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVJJ6</td>
 					<td>Vcr Tsel 1GB+2GB OMG (khusus Jateng & DIY)</td>
-					<td>31.500</td> <td style="color:black;">Ada</td>				
+					<td>30.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3581,13 +3658,13 @@
 				<tr>
 					<td>SVJJ8</td>
 					<td>Vcr Tsel 3GB+2GB OMG (khusus Jateng & DIY)</td>
-					<td>52.650</td> <td style="color:black;">Ada</td>				
+					<td>51.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVJJ9</td>
 					<td>Vcr Tsel 6GB+2GB OMG (khusus Jateng & DIY)</td>
-					<td>52.700</td> <td style="color:black;">Ada</td>				
+					<td>52.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3599,7 +3676,7 @@
 				<tr>
 					<td>SVJJ11</td>
 					<td>Vcr Tsel 9GB+2GB OMG (khusus Jateng & DIY)</td>
-					<td>68.200</td> <td style="color:black;">Ada</td>				
+					<td>68.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3617,7 +3694,7 @@
 				<tr>
 					<td>SVJT3</td>
 					<td>Vcr Tsel 1,5GB+2GB lokal 7hr (khusus Jatim)</td>
-					<td>17.750</td> <td style="color:black;">Ada</td>				
+					<td>17.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3629,7 +3706,7 @@
 				<tr>
 					<td>SVJT5</td>
 					<td>Vcr Tsel 1GB+2GB OMG (khusus Jatim)</td>
-					<td>28.250</td> <td style="color:black;">Ada</td>				
+					<td>28.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3641,13 +3718,13 @@
 				<tr>
 					<td>SVJT7</td>
 					<td>Vcr Tsel 6GB+2GB OMG (khusus Jatim)</td>
-					<td>52.500</td> <td style="color:black;">Ada</td>				
+					<td>52.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVJT8</td>
 					<td>Vcr Tsel 9GB+2GB OMG (khusus Jatim)</td>
-					<td>68.250</td> <td style="color:black;">Ada</td>				
+					<td>68.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -3660,19 +3737,19 @@
 				<tr>
 					<td>SVW5</td>
 					<td>Vcr WiFi ID 5.000 1hr</td>
-					<td>4.600</td> <td style="color:black;">Ada</td>				
+					<td>5.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVW20</td>
 					<td>Vcr WiFi ID 20.000 7hr</td>
-					<td>17.200</td> <td style="color:black;">Ada</td>				
+					<td>17.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SVW50</td>
 					<td>Vcr WiFiID 50.000 30hr</td>
-					<td>39.300</td> <td style="color:black;">Ada</td>				
+					<td>44.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -3721,25 +3798,25 @@
 				<tr>
 					<td>SLUMI9</td>
 					<td>Tsel Internet Umroh 9hr</td>
-					<td>272.000</td> <td style="color:black;">Ada</td>				
+					<td>271.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SLUMI14</td>
 					<td>Tsel Internet Umroh 14hr</td>
-					<td>342.000</td> <td style="color:black;">Ada</td>				
+					<td>341.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SLUMA9</td>
 					<td>Tsel 3in1 Umroh 9hr</td>
-					<td>347.000</td> <td style="color:black;">Ada</td>				
+					<td>376.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SLUMA14</td>
 					<td>Tsel 3in1 Umroh 14hr</td>
-					<td>542.000</td> <td style="color:black;">Ada</td>				
+					<td>541.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3782,61 +3859,61 @@
 				<tr>
 					<td>BYU1</td>
 					<td>BYU 1rb</td>
-					<td>1.350</td> <td style="color:black;">Ada</td>				
+					<td>1.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU2</td>
 					<td>BYU 2rb</td>
-					<td>2.350</td> <td style="color:black;">Ada</td>				
+					<td>2.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU3</td>
 					<td>BYU 3rb</td>
-					<td>3.400</td> <td style="color:black;">Ada</td>				
+					<td>3.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU4</td>
 					<td>BYU 4rb</td>
-					<td>4.350</td> <td style="color:black;">Ada</td>				
+					<td>4.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU5</td>
 					<td>BYU 5rb</td>
-					<td>5.350</td> <td style="color:black;">Ada</td>				
+					<td>5.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU6</td>
 					<td>BYU 6rb</td>
-					<td>6.400</td> <td style="color:black;">Ada</td>				
+					<td>6.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU7</td>
 					<td>BYU 7rb</td>
-					<td>7.400</td> <td style="color:black;">Ada</td>				
+					<td>7.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU8</td>
 					<td>BYU 8rb</td>
-					<td>8.400</td> <td style="color:black;">Ada</td>				
+					<td>8.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU9</td>
 					<td>BYU 9rb</td>
-					<td>9.400</td> <td style="color:black;">Ada</td>				
+					<td>9.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU10</td>
 					<td>BYU 10rb</td>
-					<td>10.350</td> <td style="color:black;">Ada</td>				
+					<td>10.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3866,13 +3943,13 @@
 				<tr>
 					<td>BYU15</td>
 					<td>BYU 15rb</td>
-					<td>15.100</td> <td style="color:black;">Ada</td>				
+					<td>15.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>BYU16</td>
 					<td>BYU 16rb</td>
-					<td>16.650</td> <td style="color:black;">Ada</td>				
+					<td>16.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3884,7 +3961,7 @@
 				<tr>
 					<td>BYU18</td>
 					<td>BYU 18rb</td>
-					<td>18.500</td> <td style="color:black;">Ada</td>				
+					<td>18.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3896,7 +3973,7 @@
 				<tr>
 					<td>BYU20</td>
 					<td>BYU 20rb</td>
-					<td>20.300</td> <td style="color:black;">Ada</td>				
+					<td>20.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -3992,7 +4069,7 @@
 				<tr>
 					<td>BYU100</td>
 					<td>BYU 100rb</td>
-					<td>97.700</td> <td style="color:black;">Ada</td>				
+					<td>97.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4013,6 +4090,84 @@
 				<td class="center" width="27%">Kode</td><td class="center" width="35%">Produk</td><td class="center" width="22%">Harga</td><td class="center last" width="16%">Status</td>
 			</tr>						
 										
+				<tr>
+					<td>IMO5</td>
+					<td>Isat Mochan 5rb (7hr)</td>
+					<td>5.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO10</td>
+					<td>Isat Mochan 10rb (15hr)</td>
+					<td>10.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO12</td>
+					<td>Isat Mochan 12rb</td>
+					<td>12.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO15</td>
+					<td>Isat Mochan 15rb</td>
+					<td>15.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO20</td>
+					<td>Isat Mochan 20rb (20hr)</td>
+					<td>20.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO25</td>
+					<td>Isat Mochan 25rb (30hr)</td>
+					<td>24.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO30</td>
+					<td>Isat Mochan 30rb (30hr)</td>
+					<td>29.400</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO40</td>
+					<td>Isat Mochan 40rb</td>
+					<td>39.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO50</td>
+					<td>Isat Mochan 50rb (45hr)</td>
+					<td>49.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO60</td>
+					<td>Isat Mochan 60rb</td>
+					<td>58.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO80</td>
+					<td>Isat Mochan 80rb</td>
+					<td>78.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO90</td>
+					<td>Isat Mochan 90rb</td>
+					<td>87.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMO100</td>
+					<td>Isat Mochan 100rb (60hr)</td>
+					<td>96.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
 				<tr>
 					<td>I5</td>
 					<td>Isat reguler 5rb (7hr)</td>
@@ -4046,13 +4201,13 @@
 				<tr>
 					<td>I25</td>
 					<td>Isat reguler 25rb (30hr)</td>
-					<td>25.050</td> <td style="color:black;">Ada</td>				
+					<td>24.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>I30</td>
 					<td>Isat reguler 30rb (30hr)</td>
-					<td>29.750</td> <td style="color:black;">Ada</td>				
+					<td>29.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4064,7 +4219,7 @@
 				<tr>
 					<td>I50</td>
 					<td>Isat reguler 50rb (45hr)</td>
-					<td>49.100</td> <td style="color:black;">Ada</td>				
+					<td>49.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4111,9 +4266,27 @@
 			</tr>						
 										
 				<tr>
+					<td>IMR5</td>
+					<td>Isat murah 5rb</td>
+					<td>5.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
 					<td>IMR10</td>
 					<td>Isat murah 10rb (7hr)</td>
 					<td>10.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMR12</td>
+					<td>Isat murah 12rb</td>
+					<td>12.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IMR15</td>
+					<td>Isat murah 15rb</td>
+					<td>15.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4125,13 +4298,13 @@
 				<tr>
 					<td>IMR25</td>
 					<td>Isat murah 25rb (15hr)</td>
-					<td>24.950</td> <td style="color:black;">Ada</td>				
+					<td>24.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IMR30</td>
 					<td>Isat murah 30rb (15hr)</td>
-					<td>29.750</td> <td style="color:black;">Ada</td>				
+					<td>29.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4143,37 +4316,37 @@
 				<tr>
 					<td>IMR50</td>
 					<td>Isat murah 50rb (22hr)</td>
-					<td>48.750</td> <td style="color:black;">Ada</td>				
+					<td>48.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IMR60</td>
 					<td>Isat murah 60rb (22hr)</td>
-					<td>58.600</td> <td style="color:black;">Ada</td>				
+					<td>58.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IMR70</td>
 					<td>Isat murah 70rb (22hr)</td>
-					<td>68.250</td> <td style="color:black;">Ada</td>				
+					<td>68.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IMR80</td>
 					<td>Isat murah 80rb (22hr)</td>
-					<td>77.900</td> <td style="color:black;">Ada</td>				
+					<td>78.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IMR90</td>
 					<td>Isat murah 90rb (22hr)</td>
-					<td>87.150</td> <td style="color:black;">Ada</td>				
+					<td>87.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IMR100</td>
 					<td>Isat murah 100rb (30hr)</td>
-					<td>96.400</td> <td style="color:black;">Ada</td>				
+					<td>96.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4185,7 +4358,7 @@
 				<tr>
 					<td>IMR200</td>
 					<td>Isat murah 200rb (30hr)</td>
-					<td>192.700</td> <td style="color:black;">Ada</td>				
+					<td>192.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -4198,19 +4371,19 @@
 				<tr>
 					<td>IU15</td>
 					<td>Isat UNIK 15rb</td>
-					<td>15.200</td> <td style="color:black;">Ada</td>				
+					<td>15.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IU40</td>
 					<td>Isat UNIK 40rb</td>
-					<td>39.550</td> <td style="color:black;">Ada</td>				
+					<td>39.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IU60</td>
 					<td>Isat UNIK 60rb</td>
-					<td>58.950</td> <td style="color:black;">Ada</td>				
+					<td>58.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4222,7 +4395,7 @@
 				<tr>
 					<td>IU80</td>
 					<td>Isat UNIK 80rb</td>
-					<td>78.050</td> <td style="color:black;">Ada</td>				
+					<td>78.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4234,7 +4407,7 @@
 				<tr>
 					<td>IU125</td>
 					<td>Isat UNIK 125rb</td>
-					<td>123.100</td> <td style="color:black;">Ada</td>				
+					<td>120.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4253,73 +4426,73 @@
 				<tr>
 					<td>ITP10</td>
 					<td>Isat Transfer 10rb</td>
-					<td>10.500</td> <td style="color:black;">Ada</td>				
+					<td>10.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP15</td>
 					<td>Isat Transfer 15rb</td>
-					<td>15.250</td> <td style="color:black;">Ada</td>				
+					<td>15.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP20</td>
 					<td>Isat Transfer 20rb</td>
-					<td>19.700</td> <td style="color:black;">Ada</td>				
+					<td>19.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP25</td>
 					<td>Isat Transfer 25rb</td>
-					<td>24.500</td> <td style="color:black;">Ada</td>				
+					<td>24.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP30</td>
 					<td>Isat Transfer 30rb</td>
-					<td>29.650</td> <td style="color:black;">Ada</td>				
+					<td>29.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP40</td>
 					<td>Isat Transfer 40rb</td>
-					<td>39.750</td> <td style="color:black;">Ada</td>				
+					<td>39.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP50</td>
 					<td>Isat Transfer 50rb</td>
-					<td>48.250</td> <td style="color:black;">Ada</td>				
+					<td>48.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP60</td>
 					<td>Isat Transfer 60rb</td>
-					<td>57.950</td> <td style="color:black;">Ada</td>				
+					<td>58.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP70</td>
 					<td>Isat Transfer 70rb</td>
-					<td>67.950</td> <td style="color:black;">Ada</td>				
+					<td>68.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP80</td>
 					<td>Isat Transfer 80rb</td>
-					<td>77.550</td> <td style="color:black;">Ada</td>				
+					<td>78.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP90</td>
 					<td>Isat Transfer 90rb</td>
-					<td>87.050</td> <td style="color:black;">Ada</td>				
+					<td>87.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITP100</td>
 					<td>Isat Transfer 100rb</td>
-					<td>96.050</td> <td style="color:black;">Ada</td>				
+					<td>96.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -4332,37 +4505,37 @@
 				<tr>
 					<td>ITLP1</td>
 					<td>Isat telp 1.000mnt sesama 1hr</td>
-					<td>2.400</td> <td style="color:black;">Ada</td>				
+					<td>2.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITLP2</td>
 					<td>Isat telp unl sesama+30m allOpr 7hr</td>
-					<td>14.000</td> <td style="color:black;">Ada</td>				
+					<td>14.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITLP3</td>
 					<td>Isat telp unl sesama</td>
-					<td>11.900</td> <td style="color:black;">Ada</td>				
+					<td>11.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITLP4</td>
 					<td>Isat telp unl sesama+250m allOpr</td>
-					<td>49.050</td> <td style="color:black;">Ada</td>				
+					<td>49.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITLP5</td>
 					<td>Isat telp unl sesama+60m allOpr</td>
-					<td>24.200</td> <td style="color:black;">Ada</td>				
+					<td>24.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ITLP6</td>
 					<td>Isat telp unl sesama+30m allOpr 14hr</td>
-					<td>14.850</td> <td style="color:black;">Ada</td>				
+					<td>15.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4374,7 +4547,7 @@
 				<tr>
 					<td>IS10</td>
 					<td>Isat 600SMS+200SMS opr lain</td>
-					<td>11.250</td> <td style="color:black;">Ada</td>				
+					<td>11.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4411,37 +4584,37 @@
 				<tr>
 					<td>IDP100</td>
 					<td>Isat 100MB</td>
-					<td>1.250</td> <td style="color:black;">Ada</td>				
+					<td>1.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP200</td>
 					<td>Isat 200MB</td>
-					<td>2.300</td> <td style="color:black;">Ada</td>				
+					<td>1.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP250</td>
 					<td>Isat 250MB</td>
-					<td>3.250</td> <td style="color:black;">Ada</td>				
+					<td>3.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP300</td>
 					<td>Isat 300MB</td>
-					<td>2.950</td> <td style="color:black;">Ada</td>				
+					<td>2.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP400</td>
 					<td>Isat 400MB</td>
-					<td>3.750</td> <td style="color:black;">Ada</td>				
+					<td>3.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP500</td>
 					<td>Isat 500MB</td>
-					<td>5.350</td> <td style="color:black;">Ada</td>				
+					<td>4.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4453,55 +4626,55 @@
 				<tr>
 					<td>IDP750</td>
 					<td>Isat 750MB</td>
-					<td>7.250</td> <td style="color:black;">Ada</td>				
+					<td>6.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP1</td>
 					<td>Isat 1GB</td>
-					<td>9.450</td> <td style="color:black;">Ada</td>				
+					<td>8.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP1500</td>
 					<td>Isat 1,5GB</td>
-					<td>14.200</td> <td style="color:black;">Ada</td>				
+					<td>13.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP2</td>
 					<td>Isat 2GB</td>
-					<td>15.750</td> <td style="color:black;">Ada</td>				
+					<td>15.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP2500</td>
 					<td>Isat 2,5GB</td>
-					<td>21.900</td> <td style="color:black;">Ada</td>				
+					<td>21.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP3</td>
 					<td>Isat 3GB</td>
-					<td>23.350</td> <td style="color:black;">Ada</td>				
+					<td>22.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP4</td>
 					<td>Isat 4GB</td>
-					<td>25.700</td> <td style="color:black;">Ada</td>				
+					<td>25.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP5</td>
 					<td>Isat 5GB</td>
-					<td>37.700</td> <td style="color:black;">Ada</td>				
+					<td>37.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDP6</td>
 					<td>Isat 6GB</td>
-					<td>44.700</td> <td style="color:black;">Ada</td>				
+					<td>44.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4531,31 +4704,31 @@
 				<tr>
 					<td>IDH7</td>
 					<td>Isat 7GB(1GB/hr) 7hr</td>
-					<td>19.350</td> <td style="color:black;">Ada</td>				
+					<td>19.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDH14</td>
 					<td>Isat 14GB(1GB/hr) 14hr</td>
-					<td>37.700</td> <td style="color:black;">Ada</td>				
+					<td>37.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDH28</td>
 					<td>Isat 28GB(1GB/hr) 28hr</td>
-					<td>70.200</td> <td style="color:black;">Ada</td>				
+					<td>70.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDK2</td>
 					<td>Isat Extra Kuota 1GB+4GB malam</td>
-					<td>36.550</td> <td style="color:black;">Ada</td>				
+					<td>36.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDK4</td>
 					<td>Isat Extra Kuota 3GB+7GB malam</td>
-					<td>52.550</td> <td style="color:black;">Ada</td>				
+					<td>52.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4567,7 +4740,7 @@
 				<tr>
 					<td>IDM1</td>
 					<td>Isat Mini 1GB+1GB(01-06)</td>
-					<td>20.650</td> <td style="color:black;">Ada</td>				
+					<td>20.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4627,37 +4800,37 @@
 				<tr>
 					<td>IDA10</td>
 					<td>Isat Apps 10GB</td>
-					<td>38.000</td> <td style="color:black;">Ada</td>				
+					<td>41.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDA15</td>
 					<td>Isat Apps 15GB</td>
-					<td>52.750</td> <td style="color:black;">Ada</td>				
+					<td>56.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDA20</td>
 					<td>Isat Apps 20GB</td>
-					<td>65.500</td> <td style="color:black;">Ada</td>				
+					<td>71.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDU0</td>
 					<td>Isat 1GB 7hr</td>
-					<td>10.100</td> <td style="color:black;">Ada</td>				
+					<td>10.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDU1</td>
 					<td>Isat 1GB All + 4.5GB Apps</td>
-					<td>23.900</td> <td style="color:black;">Ada</td>				
+					<td>24.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDU2</td>
 					<td>Isat 2GB All + 7.5GB Apps</td>
-					<td>37.550</td> <td style="color:black;">Ada</td>				
+					<td>37.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4669,19 +4842,19 @@
 				<tr>
 					<td>IDU5</td>
 					<td>Isat 5GB All + 15GB Apps</td>
-					<td>63.200</td> <td style="color:black;">Ada</td>				
+					<td>62.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDU7</td>
 					<td>Isat 7GB All + 20GB Apps</td>
-					<td>74.500</td> <td style="color:black;">Ada</td>				
+					<td>74.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDU10</td>
 					<td>Isat 10GB All + 25GB Apps</td>
-					<td>93.600</td> <td style="color:black;">Ada</td>				
+					<td>93.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4693,43 +4866,43 @@
 				<tr>
 					<td>IDU99</td>
 					<td>Isat 38GB All Jaringan</td>
-					<td>141.500</td> <td style="color:black;">Ada</td>				
+					<td>140.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFC12</td>
 					<td>Isat 2GB+3GB 4G+5GB(01-06)+telp</td>
-					<td>64.450</td> <td style="color:black;">Ada</td>				
+					<td>64.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFC24</td>
 					<td>Isat 4GB+8GB 4G+10GB(01-06)+telp</td>
-					<td>98.450</td> <td style="color:black;">Ada</td>				
+					<td>99.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFC38</td>
 					<td>Isat 8GB+12GB(4G)+15GB(01-06)+telp</td>
-					<td>147.200</td> <td style="color:black;">Ada</td>				
+					<td>149.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFC82</td>
 					<td>Isat 12GB+25GB(4G)+20GB(01-06)+telp</td>
-					<td>195.750</td> <td style="color:black;">Ada</td>				
+					<td>199.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDF2</td>
 					<td>Isat Freedom Internet 2GB</td>
-					<td>14.750</td> <td style="color:black;">Ada</td>				
+					<td>14.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDF3</td>
 					<td>Isat Freedom Internet 3GB</td>
-					<td>24.400</td> <td style="color:black;">Ada</td>				
+					<td>24.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4741,19 +4914,19 @@
 				<tr>
 					<td>IDF10</td>
 					<td>Isat Freedom Internet 10GB</td>
-					<td>47.550</td> <td style="color:black;">Ada</td>				
+					<td>47.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDF18</td>
 					<td>Isat Freedom Internet 18GB</td>
-					<td>70.450</td> <td style="color:black;">Ada</td>				
+					<td>69.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDF25</td>
 					<td>Isat Freedom Internet 25GB</td>
-					<td>94.100</td> <td style="color:black;">Ada</td>				
+					<td>93.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4765,7 +4938,7 @@
 				<tr>
 					<td>IDFA4</td>
 					<td>Isat Freedom Attack 4GB+1GB</td>
-					<td>25.150</td> <td style="color:black;">Ada</td>				
+					<td>25.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4777,13 +4950,13 @@
 				<tr>
 					<td>IDFA18</td>
 					<td>Isat Freedom Attack 18GB+3GB</td>
-					<td>73.050</td> <td style="color:black;">Ada</td>				
+					<td>73.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFA25</td>
 					<td>Isat Freedom Attack 25GB+5GB</td>
-					<td>97.200</td> <td style="color:black;">Ada</td>				
+					<td>97.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4795,67 +4968,79 @@
 				<tr>
 					<td>IDFN8</td>
 					<td>Isat Freedom Non-Attack 6GB+2GB(01-06)+telp allOpr 20mnt</td>
-					<td>32.950</td> <td style="color:black;">Ada</td>				
+					<td>33.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFN14</td>
 					<td>Isat Freedom Non-Attack 11GB+3GB(01-06)+telp allOpr 30mnt</td>
-					<td>47.550</td> <td style="color:black;">Ada</td>				
+					<td>47.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFN20</td>
 					<td>Isat Freedom Non-Attack 16GB+4GB(01-06)+telp allOpr 40mnt</td>
-					<td>65.700</td> <td style="color:black;">Ada</td>				
+					<td>66.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFN30</td>
 					<td>Isat Freedom Non-Attack 24GB+6GB(01-06)+telp allOpr 60mnt</td>
-					<td>94.200</td> <td style="color:black;">Ada</td>				
+					<td>94.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFN50</td>
 					<td>Isat Freedom Non-Attack 40GB+10GB(01-06)+telp allOpr 60mnt</td>
-					<td>145.050</td> <td style="color:black;">Ada</td>				
+					<td>145.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFL8</td>
 					<td>Isat Freedom LongLife 8GB,60hr (4GB/bln)</td>
-					<td>44.850</td> <td style="color:black;">Ada</td>				
+					<td>45.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFL12</td>
 					<td>Isat Freedom LongLife 12GB,90hr (4GB/bln)</td>
-					<td>62.900</td> <td style="color:black;">Ada</td>				
+					<td>63.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFL20</td>
 					<td>Isat Freedom LongLife 20GB,60hr (10GB/bln)</td>
-					<td>84.150</td> <td style="color:black;">Ada</td>				
+					<td>84.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFL30</td>
 					<td>Isat Freedom LongLife 30GB,90hr (10GB/bln)</td>
-					<td>117.800</td> <td style="color:black;">Ada</td>				
+					<td>118.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFL36</td>
 					<td>Isat Freedom LongLife 36GB,60hr (18GB/bln)</td>
-					<td>122.150</td> <td style="color:black;">Ada</td>				
+					<td>122.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDFL54</td>
 					<td>Isat Freedom LongLife 54GB,90hr (18GB/bln)</td>
-					<td>169.900</td> <td style="color:black;">Ada</td>				
+					<td>170.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDGU1</td>
+					<td>Isat Gift 500MB+1GB Apps 2hr</td>
+					<td>5.950</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDGU2</td>
+					<td>Isat Gift 1GB+2GB Apps 7hr</td>
+					<td>14.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4867,37 +5052,73 @@
 				<tr>
 					<td>IDG2</td>
 					<td>Isat Gift 2GB+7.5GB Apps</td>
-					<td>31.100</td> <td style="color:black;">Ada</td>				
+					<td>30.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDG3</td>
 					<td>Isat Gift 3GB+15GB Apps+Unli SMS sesama</td>
-					<td>45.600</td> <td style="color:black;">Ada</td>				
+					<td>44.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDG5</td>
 					<td>Isat Gift 5GB + 5GB Apps</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>48.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDG7</td>
 					<td>Isat Gift 7GB+20GB Apps+Unli SMS sesama</td>
-					<td>61.100</td> <td style="color:black;">Ada</td>				
+					<td>58.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDG10</td>
 					<td>Isat Gift 10GB+25GB Apps+SMS & Telp sesama</td>
-					<td>76.100</td> <td style="color:black;">Ada</td>				
+					<td>73.950</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDG15</td>
+					<td>Isat Gift 15GB+25GB Apps+SMS & Telp sesama</td>
+					<td>121.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDG99</td>
+					<td>Isat Gift 38GB+25GB Apps+SMS & Telp sesama</td>
+					<td>111.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDGF2</td>
 					<td>Isat Gift Freedom Internet 2GB</td>
-					<td>12.550</td> <td style="color:black;">Ada</td>				
+					<td>13.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDGF4</td>
+					<td>Isat Gift Freedom Internet 4GB</td>
+					<td>20.200</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDGF10</td>
+					<td>Isat Gift Freedom Internet 10GB</td>
+					<td>39.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDGF18</td>
+					<td>Isat Gift Freedom Internet 18GB</td>
+					<td>57.850</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDGF25</td>
+					<td>Isat Gift Freedom Internet 25GB</td>
+					<td>77.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -4910,19 +5131,19 @@
 				<tr>
 					<td>IDVF2</td>
 					<td>Vcr Isat Freedom Inet 2GB 15hr</td>
-					<td>15.150</td> <td style="color:black;">Ada</td>				
+					<td>15.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVF3</td>
 					<td>Vcr Isat Freedom Inet 3GB</td>
-					<td>24.600</td> <td style="color:black;">Ada</td>				
+					<td>24.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVF10</td>
 					<td>Vcr Isat Freedom Inet 10GB</td>
-					<td>48.100</td> <td style="color:black;">Ada</td>				
+					<td>48.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4934,13 +5155,13 @@
 				<tr>
 					<td>IDVF25</td>
 					<td>Vcr Isat Freedom Inet 25GB</td>
-					<td>94.500</td> <td style="color:black;">Ada</td>				
+					<td>95.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVH7</td>
 					<td>Vcr Isat 7GB(1GB/hr) 7hr </td>
-					<td>19.650</td> <td style="color:black;">Ada</td>				
+					<td>19.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4952,7 +5173,7 @@
 				<tr>
 					<td>IDVH28</td>
 					<td>Vcr Isat 28GB(1GB/hr) 28hr </td>
-					<td>70.650</td> <td style="color:black;">Ada</td>				
+					<td>71.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -4994,19 +5215,19 @@
 				<tr>
 					<td>IDVFU1</td>
 					<td>Vcr Isat 1GB all+unl app</td>
-					<td>24.400</td> <td style="color:black;">Ada</td>				
+					<td>24.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVFU2</td>
 					<td>Vcr Isat 2GB all+unl app</td>
-					<td>38.250</td> <td style="color:black;">Ada</td>				
+					<td>38.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVFU3</td>
 					<td>Vcr Isat 3GB all+unl(app+SMS+youtube)</td>
-					<td>56.850</td> <td style="color:black;">Ada</td>				
+					<td>57.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5018,13 +5239,13 @@
 				<tr>
 					<td>IDVFU7</td>
 					<td>Vcr Isat 7GB all+unl(app+SMS+youtube+IG)</td>
-					<td>76.100</td> <td style="color:black;">Ada</td>				
+					<td>76.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVFU10</td>
 					<td>Vcr Isat 10GB+unl(app telp+SMS+youtube+IG)</td>
-					<td>95.100</td> <td style="color:black;">Ada</td>				
+					<td>95.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5060,19 +5281,19 @@
 				<tr>
 					<td>IDVFA20</td>
 					<td>Vcr Isat Freedom Attack 7.5GB+7.5GB lokal+5GB mlm+30mnt</td>
-					<td>49.350</td> <td style="color:black;">Ada</td>				
+					<td>49.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVFA30</td>
 					<td>Vcr Isat Freedom Attack 11GB+11GB lokal+8GB mlm+40mnt</td>
-					<td>66.650</td> <td style="color:black;">Ada</td>				
+					<td>67.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>IDVFA40</td>
 					<td>Vcr Isat Freedom Attack 16GB+16GB lokal+8GB mlm+60mnt</td>
-					<td>97.100</td> <td style="color:black;">Ada</td>				
+					<td>97.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5096,7 +5317,7 @@
 				<tr>
 					<td>IDVFNA14</td>
 					<td>Vcr Isat Freedom Non-Attack 7.5GB+3.5GB lokal+3GB malam+30mnt all</td>
-					<td>48.850</td> <td style="color:black;">Ada</td>				
+					<td>49.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5128,6 +5349,150 @@
 					<td>Vcr Isat Freedom L 4GB+8GB 4G+10GB MDS+unl telp dan SMS sesama</td>
 					<td>89.800</td> <td style="color:black;">Ada</td>				
 				</tr>
+											
+				<tr>
+					<td>IDAVF2</td>
+					<td>Aktivasi Vcr Isat 2GB 24jam 15hr</td>
+					<td>15.150</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVF3</td>
+					<td>Aktivasi Vcr Isat 3GB 24jam 15hr</td>
+					<td>24.800</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFK4</td>
+					<td>Aktivasi Vcr Isat Freedom 4GB 30hr</td>
+					<td>25.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFK8</td>
+					<td>Aktivasi Vcr Isat Freedom 8GB 30hr</td>
+					<td>34.500</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVF10</td>
+					<td>Aktivasi Vcr Isat 10GB 24jam 15hr</td>
+					<td>49.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFK14</td>
+					<td>Aktivasi Vcr Isat Freedom 14GB 30hr</td>
+					<td>50.150</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVF18</td>
+					<td>Aktivasi Vcr Isat 18GB 24jam 15hr</td>
+					<td>72.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFK20</td>
+					<td>Aktivasi Vcr Isat Freedom 20GB 30hr</td>
+					<td>70.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVF25</td>
+					<td>Aktivasi Vcr Isat 25GB 24jam 15hr</td>
+					<td>96.550</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFK30</td>
+					<td>Aktivasi Vcr Isat Freedom 30GB 30hr</td>
+					<td>97.150</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFK50</td>
+					<td>Aktivasi Vcr Isat Freedom 50GB 30hr</td>
+					<td>150.750</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFC12</td>
+					<td>Aktivasi Vcr Isat Combo M 12GB 30hr</td>
+					<td>65.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVFC26</td>
+					<td>Aktivasi Vcr Isat Combo L 26GB 30hr</td>
+					<td>100.750</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVM1</td>
+					<td>Aktivasi Vcr Isat BIG Quota MINI 1GB 30hr</td>
+					<td>20.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVM2</td>
+					<td>Aktivasi Vcr Isat BIG Quota MINI 2GB 30hr</td>
+					<td>35.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU1</td>
+					<td>Aktivasi Vcr Isat Unli 1GB 30hr</td>
+					<td>24.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU1M</td>
+					<td>Aktivasi Vcr Isat Unli 1GB 7hr</td>
+					<td>15.650</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU2</td>
+					<td>Aktivasi Vcr Isat Unli 2GB 30hr</td>
+					<td>39.400</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU3</td>
+					<td>Aktivasi Vcr Isat Unli 3GB 30hr</td>
+					<td>58.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU7</td>
+					<td>Aktivasi Vcr Isat Unli 7GB 30hr</td>
+					<td>78.150</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU10</td>
+					<td>Aktivasi Vcr Isat Unli 10GB 30hr</td>
+					<td>97.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVU99</td>
+					<td>Aktivasi Vcr Isat Unli Jumbo 30hr</td>
+					<td>145.650</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVY7</td>
+					<td>Aktivasi Vcr Isat Yellow 1GB 7hr</td>
+					<td>10.500</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>IDAVY15</td>
+					<td>Aktivasi Vcr Isat Yellow 15GB 15hr</td>
+					<td>14.100</td> <td style="color:black;">Ada</td>				
+				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr><tr><th style="border: none" colspan="6"><br></th></tr>
 		
 		<tr class="head">
@@ -5142,6 +5507,48 @@
 			</tr>						
 										
 				<tr>
+					<td>XMO5</td>
+					<td>XL Mochan 5rb</td>
+					<td>5.700</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XMO10</td>
+					<td>XL Mochan 10rb</td>
+					<td>10.650</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XMO15</td>
+					<td>XL Mochan 15rb</td>
+					<td>14.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XMO25</td>
+					<td>XL Mochan 25rb</td>
+					<td>24.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XMO30</td>
+					<td>XL Mochan 30rb</td>
+					<td>29.500</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XMO50</td>
+					<td>XL Mochan 50rb</td>
+					<td>49.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XMO100</td>
+					<td>XL Mochan 100rb</td>
+					<td>98.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
 					<td>X5</td>
 					<td>XL 5rb</td>
 					<td>5.900</td> <td style="color:black;">Ada</td>				
@@ -5150,7 +5557,7 @@
 				<tr>
 					<td>X10</td>
 					<td>XL 10rb</td>
-					<td>10.800</td> <td style="color:black;">Ada</td>				
+					<td>10.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5162,13 +5569,13 @@
 				<tr>
 					<td>X25</td>
 					<td>XL 25rb</td>
-					<td>24.850</td> <td style="color:black;">Ada</td>				
+					<td>24.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>X30</td>
 					<td>XL 30rb</td>
-					<td>29.750</td> <td style="color:black;">Ada</td>				
+					<td>29.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5199,97 +5606,157 @@
 				<tr>
 					<td>XU5</td>
 					<td>XL Unik 5rb</td>
-					<td>6.150</td> <td style="color:black;">Ada</td>				
+					<td>5.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU10</td>
 					<td>XL Unik 10rb</td>
-					<td>11.050</td> <td style="color:black;">Ada</td>				
+					<td>10.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU20</td>
 					<td>XL Unik 20rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>19.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU25</td>
 					<td>XL Unik 25rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>24.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU30</td>
 					<td>XL Unik 30rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>29.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU50</td>
 					<td>XL Unik 50rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>48.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU75</td>
 					<td>XL Unik 75rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>70.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU90</td>
 					<td>XL Unik 90rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>84.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU100</td>
 					<td>XL Unik 100rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>96.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU125</td>
 					<td>XL Unik 125rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>118.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU150</td>
 					<td>XL Unik 150rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>141.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU175</td>
 					<td>XL Unik 175rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>163.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU200</td>
 					<td>XL Unik 200rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>186.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU300</td>
 					<td>XL Unik 300rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>279.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU400</td>
 					<td>XL Unik 400rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>375.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XU500</td>
 					<td>XL Unik 500rb</td>
-					<td>1</td> <td style="color:red;">Gangguan</td>				
+					<td>465.250</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP25</td>
+					<td>XL Transfer 25rb</td>
+					<td>24.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP30</td>
+					<td>XL Transfer 30rb</td>
+					<td>29.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP50</td>
+					<td>XL Transfer 50rb</td>
+					<td>48.500</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP75</td>
+					<td>XL Transfer 75rb</td>
+					<td>70.750</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP90</td>
+					<td>XL Transfer 90rb</td>
+					<td>84.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP100</td>
+					<td>XL Transfer 100rb</td>
+					<td>96.300</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP125</td>
+					<td>XL Transfer 125rb</td>
+					<td>118.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP150</td>
+					<td>XL Transfer 150rb</td>
+					<td>141.150</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP175</td>
+					<td>XL Transfer 175rb</td>
+					<td>163.750</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>XTP200</td>
+					<td>XL Transfer 200rb</td>
+					<td>186.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -5308,25 +5775,25 @@
 				<tr>
 					<td>XTLP4</td>
 					<td>XL KpnAja telp 350mnt sesama+50mnt allOpr 7hr</td>
-					<td>10.300</td> <td style="color:black;">Ada</td>				
+					<td>10.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XTLP1</td>
 					<td>XL KpnAja telp 200mnt 14hr sesama</td>
-					<td>14.150</td> <td style="color:black;">Ada</td>				
+					<td>14.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XTLP2</td>
 					<td>XL KpnAja telp 200mnt+400SMS sesama</td>
-					<td>33.650</td> <td style="color:black;">Ada</td>				
+					<td>33.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XTLP3</td>
 					<td>XL KpnAja telp 500mnt sesama</td>
-					<td>34.350</td> <td style="color:black;">Ada</td>				
+					<td>34.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5344,7 +5811,7 @@
 				<tr>
 					<td>XTLP5</td>
 					<td>XL KpnAja telp 300mnt allOpr</td>
-					<td>69.500</td> <td style="color:black;">Ada</td>				
+					<td>68.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5362,7 +5829,7 @@
 				<tr>
 					<td>XTLP9</td>
 					<td>XL KpnAja telp 500mnt allOpr 90hr</td>
-					<td>125.850</td> <td style="color:black;">Ada</td>				
+					<td>125.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -5405,13 +5872,13 @@
 				<tr>
 					<td>XHP35</td>
 					<td>XL HotRod Pro 800MB</td>
-					<td>29.000</td> <td style="color:black;">Ada</td>				
+					<td>29.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XHP50</td>
 					<td>XL HotRod Pro 1,5GB</td>
-					<td>46.100</td> <td style="color:black;">Ada</td>				
+					<td>46.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5423,19 +5890,19 @@
 				<tr>
 					<td>XHP120</td>
 					<td>XL HotRod Pro 6GB</td>
-					<td>91.350</td> <td style="color:black;">Ada</td>				
+					<td>91.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XHP130</td>
 					<td>XL HotRod Pro 8GB</td>
-					<td>113.300</td> <td style="color:black;">Ada</td>				
+					<td>113.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XHP150</td>
 					<td>XL HotRod Pro 12GB</td>
-					<td>159.550</td> <td style="color:black;">Ada</td>				
+					<td>159.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5484,7 +5951,7 @@
 				<tr>
 					<td>XDM500</td>
 					<td>XL 500MB</td>
-					<td>8.000</td> <td style="color:black;">Ada</td>				
+					<td>7.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5502,7 +5969,7 @@
 				<tr>
 					<td>XDM800</td>
 					<td>XL 800MB</td>
-					<td>11.350</td> <td style="color:black;">Ada</td>				
+					<td>11.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5526,31 +5993,31 @@
 				<tr>
 					<td>XDM3</td>
 					<td>XL 3GB</td>
-					<td>38.600</td> <td style="color:black;">Ada</td>				
+					<td>38.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XDM4</td>
 					<td>XL 4GB</td>
-					<td>50.650</td> <td style="color:black;">Ada</td>				
+					<td>50.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XDM5</td>
 					<td>XL 5GB</td>
-					<td>56.100</td> <td style="color:black;">Ada</td>				
+					<td>55.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XDM6</td>
 					<td>XL 6GB</td>
-					<td>72.700</td> <td style="color:black;">Ada</td>				
+					<td>73.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XDM8</td>
 					<td>XL 8GB</td>
-					<td>88.600</td> <td style="color:black;">Ada</td>				
+					<td>87.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -5575,19 +6042,19 @@
 				<tr>
 					<td>XD15</td>
 					<td>XL Combo 15GB+15GB youtube(free 01-06)+telp 40m</td>
-					<td>112.800</td> <td style="color:black;">Ada</td>				
+					<td>111.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XD20</td>
 					<td>XL Combo 20GB+20GB youtube(free 01-06)+telp 60m</td>
-					<td>158.500</td> <td style="color:black;">Ada</td>				
+					<td>157.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XD35</td>
 					<td>XL Combo 35GB+35GB youtube(free 01-06)+telp 90m</td>
-					<td>214.350</td> <td style="color:black;">Ada</td>				
+					<td>213.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5605,13 +6072,13 @@
 				<tr>
 					<td>XDP15</td>
 					<td>XL Combo Promo 15GB+15GB youtube(free 01-06)+telp 40m</td>
-					<td>111.250</td> <td style="color:black;">Ada</td>				
+					<td>112.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XDP20</td>
 					<td>XL Combo Promo 20GB+20GB youtube(free 01-06)+telp 60m</td>
-					<td>157.350</td> <td style="color:black;">Ada</td>				
+					<td>158.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5642,19 +6109,19 @@
 				<tr>
 					<td>XV30</td>
 					<td>XL Combo VIP 15GB+15GB youtube+40mnt</td>
-					<td>117.850</td> <td style="color:black;">Ada</td>				
+					<td>118.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XV40</td>
 					<td>XL Combo VIP 20GB+20GB youtube+60mnt</td>
-					<td>163.000</td> <td style="color:black;">Ada</td>				
+					<td>163.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XV70</td>
 					<td>XL Combo VIP 35GB+35GB youtube+90mnt</td>
-					<td>217.250</td> <td style="color:black;">Ada</td>				
+					<td>217.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -5667,37 +6134,37 @@
 				<tr>
 					<td>XCL2</td>
 					<td>XL Combo Lite 3GB</td>
-					<td>20.600</td> <td style="color:black;">Ada</td>				
+					<td>20.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XCL35</td>
 					<td>XL Combo Lite 4,5GB</td>
-					<td>26.250</td> <td style="color:black;">Ada</td>				
+					<td>26.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XCL6</td>
 					<td>XL Combo Lite 7GB</td>
-					<td>37.150</td> <td style="color:black;">Ada</td>				
+					<td>37.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XCL11</td>
 					<td>XL Combo Lite 13GB</td>
-					<td>59.050</td> <td style="color:black;">Ada</td>				
+					<td>59.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XCL21</td>
 					<td>XL Combo Lite 25GB</td>
-					<td>93.600</td> <td style="color:black;">Ada</td>				
+					<td>93.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XCL31</td>
 					<td>XL Combo Lite 37GB</td>
-					<td>114.000</td> <td style="color:black;">Ada</td>				
+					<td>113.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -5764,7 +6231,7 @@
 				<tr>
 					<td>XTRAON1</td>
 					<td>XL Xtra On kuota 1GB 60hr</td>
-					<td>14.850</td> <td style="color:black;">Ada</td>				
+					<td>14.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -5789,43 +6256,43 @@
 				<tr>
 					<td>XVL2</td>
 					<td>Vcr XL 2GB 7hr</td>
-					<td>16.600</td> <td style="color:black;">Ada</td>				
+					<td>16.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XVL3</td>
 					<td>Vcr XL 3GB 7hr</td>
-					<td>21.150</td> <td style="color:black;">Ada</td>				
+					<td>21.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XVL4</td>
 					<td>Vcr XL Combo Lite 4,5GB >>1,5GB+1GB 4G+1GB youtube+1GB lokal+5mnt telp allOpr</td>
-					<td>27.200</td> <td style="color:black;">Ada</td>				
+					<td>27.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XVL8</td>
 					<td>Vcr XL Combo Lite 8GB >>3GB+2GB 4G+1GB youtube+2GB lokal+5mnt telp allOpr</td>
-					<td>38.200</td> <td style="color:black;">Ada</td>				
+					<td>38.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XVL15</td>
 					<td>Vcr XL Combo Lite 15GB >>6GB all+4GB 4G+1GB youtube 30hr</td>
-					<td>61.200</td> <td style="color:black;">Ada</td>				
+					<td>61.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XVL25</td>
 					<td>Vcr XL Combo Lite 25GB >>12GB all+8GB 4G+1GB youtube 30hr</td>
-					<td>95.850</td> <td style="color:black;">Ada</td>				
+					<td>96.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>XVL37</td>
 					<td>Vcr XL Combo Lite 37GB >>18gb all+12GB 4G+1GB youtube 30hr</td>
-					<td>118.950</td> <td style="color:black;">Ada</td>				
+					<td>119.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -5993,6 +6460,48 @@
 			</tr>						
 										
 				<tr>
+					<td>AMO5</td>
+					<td>Ax Mochan 5rb</td>
+					<td>5.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>AMO10</td>
+					<td>Ax Mochan 10rb</td>
+					<td>10.800</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>AMO15</td>
+					<td>Ax Mochan 15rb</td>
+					<td>14.950</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>AMO25</td>
+					<td>Ax Mochan 25rb</td>
+					<td>24.600</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>AMO30</td>
+					<td>Ax Mochan 30rb</td>
+					<td>29.500</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>AMO50</td>
+					<td>Ax Mochan 50rb</td>
+					<td>49.400</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>AMO100</td>
+					<td>Ax Mochan 100rb</td>
+					<td>98.350</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
 					<td>A5</td>
 					<td>Ax 5rb</td>
 					<td>5.900</td> <td style="color:black;">Ada</td>				
@@ -6001,7 +6510,7 @@
 				<tr>
 					<td>A10</td>
 					<td>Ax 10rb</td>
-					<td>10.850</td> <td style="color:black;">Ada</td>				
+					<td>10.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6013,13 +6522,13 @@
 				<tr>
 					<td>A25</td>
 					<td>Ax 25rb</td>
-					<td>24.850</td> <td style="color:black;">Ada</td>				
+					<td>24.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>A30</td>
 					<td>Ax 30rb</td>
-					<td>29.800</td> <td style="color:black;">Ada</td>				
+					<td>29.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6042,97 +6551,97 @@
 			</tr>						
 										
 				<tr>
-					<td>AXUC5</td>
+					<td>AUC5</td>
 					<td>Ax Unik 5rb</td>
-					<td>6.150</td> <td style="color:black;">Ada</td>				
+					<td>6.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC10</td>
+					<td>AUC10</td>
 					<td>Ax Unik 10rb</td>
-					<td>11.050</td> <td style="color:black;">Ada</td>				
+					<td>11.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC20</td>
+					<td>AUC20</td>
 					<td>Ax Unik 20rb</td>
 					<td>19.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC25</td>
+					<td>AUC25</td>
 					<td>Ax Unik 25rb</td>
-					<td>24.250</td> <td style="color:black;">Ada</td>				
+					<td>24.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC30</td>
+					<td>AUC30</td>
 					<td>Ax Unik 30rb</td>
-					<td>28.750</td> <td style="color:black;">Ada</td>				
+					<td>29.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC50</td>
+					<td>AUC50</td>
 					<td>Ax Unik 50rb</td>
-					<td>48.200</td> <td style="color:black;">Ada</td>				
+					<td>48.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC75</td>
+					<td>AUC75</td>
 					<td>Ax Unik 75rb</td>
 					<td>70.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC90</td>
+					<td>AUC90</td>
 					<td>Ax Unik 90rb</td>
 					<td>84.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC100</td>
+					<td>AUC100</td>
 					<td>Ax Unik 100rb</td>
-					<td>96.000</td> <td style="color:black;">Ada</td>				
+					<td>96.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC125</td>
+					<td>AUC125</td>
 					<td>Ax Unik 125rb</td>
 					<td>118.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC150</td>
+					<td>AUC150</td>
 					<td>Ax Unik 150rb</td>
 					<td>141.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC175</td>
+					<td>AUC175</td>
 					<td>Ax Unik 175rb</td>
 					<td>163.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC200</td>
+					<td>AUC200</td>
 					<td>Ax Unik 200rb</td>
 					<td>186.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC300</td>
+					<td>AUC300</td>
 					<td>Ax Unik 300rb</td>
 					<td>279.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC400</td>
+					<td>AUC400</td>
 					<td>Ax Unik 400rb</td>
 					<td>375.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXUC500</td>
+					<td>AUC500</td>
 					<td>Ax Unik 500rb</td>
 					<td>465.250</td> <td style="color:black;">Ada</td>				
 				</tr>
@@ -6145,19 +6654,19 @@
 			</tr>						
 										
 				<tr>
-					<td>AXT14</td>
+					<td>AT14</td>
 					<td>Ax telp unlimited sesama 14hr</td>
 					<td>900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXT7</td>
+					<td>AT7</td>
 					<td>Ax telp 30mnt allOpr 7hr</td>
 					<td>8.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXT30</td>
+					<td>AT30</td>
 					<td>Ax telp 100mnt allOpr 30hr</td>
 					<td>24.300</td> <td style="color:black;">Ada</td>				
 				</tr>
@@ -6197,13 +6706,13 @@
 				<tr>
 					<td>ADBBB1</td>
 					<td>Ax 1.5GB+500MB BIGBRO+1GB BOY 3hr</td>
-					<td>5.950</td> <td style="color:black;">Ada</td>				
+					<td>6.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADBBB4</td>
 					<td>Ax 4.5GB+1GB BIGBRO+2GB BOY 3hr</td>
-					<td>10.650</td> <td style="color:black;">Ada</td>				
+					<td>10.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6213,69 +6722,69 @@
 				</tr>
 											
 				<tr>
-					<td>AX1MM</td>
+					<td>A1MM</td>
 					<td>Ax Mini 1.5GB+0.5GB SKS 5hr </td>
-					<td>7.950</td> <td style="color:black;">Ada</td>				
+					<td>8.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AX2MM</td>
+					<td>A2MM</td>
 					<td>Ax Mini 2GB+1GB SKS 5hr </td>
 					<td>12.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AX3MM</td>
+					<td>A3MM</td>
 					<td>Ax Mini 3GB+2GB SKS 5hr </td>
-					<td>15.450</td> <td style="color:black;">Ada</td>				
+					<td>15.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AX5MM</td>
+					<td>A5MM</td>
 					<td>Ax Mini 5GB+3GB SKS 5hr </td>
-					<td>18.600</td> <td style="color:black;">Ada</td>				
+					<td>18.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADS3</td>
 					<td>Ax 3GB+1.5GB SKS 7hr</td>
-					<td>15.800</td> <td style="color:black;">Ada</td>				
+					<td>15.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADS4</td>
 					<td>Ax 4.5GB+2.5GB SKS 7hr</td>
-					<td>19.700</td> <td style="color:black;">Ada</td>				
+					<td>19.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADS14</td>
 					<td>Ax 14GB+6GB SKS 15hr</td>
-					<td>48.500</td> <td style="color:black;">Ada</td>				
+					<td>48.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AX1M</td>
 					<td>Ax Mini 1GB 5hr </td>
-					<td>7.900</td> <td style="color:black;">Ada</td>				
+					<td>8.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AX2M</td>
 					<td>Ax Mini 2GB 7hr </td>
-					<td>14.700</td> <td style="color:black;">Ada</td>				
+					<td>14.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AX3M</td>
 					<td>Ax Mini 3GB 15hr </td>
-					<td>19.200</td> <td style="color:black;">Ada</td>				
+					<td>19.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AX5M</td>
 					<td>Ax Mini 5GB 15hr</td>
-					<td>30.400</td> <td style="color:black;">Ada</td>				
+					<td>30.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6305,37 +6814,37 @@
 				<tr>
 					<td>ADB8</td>
 					<td>Ax 8GB 7hr</td>
-					<td>27.200</td> <td style="color:black;">Ada</td>				
+					<td>27.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AGZ1</td>
 					<td>Ax 1GB+0.5GB JADETABEK</td>
-					<td>13.150</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
 					<td>AGZ2</td>
 					<td>Ax 2GB+1GB JADETABEK</td>
-					<td>22.350</td> <td style="color:black;">Ada</td>				
+					<td>22.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AGZ3</td>
 					<td>Ax 3GB+2GB JADETABEK</td>
-					<td>28.100</td> <td style="color:black;">Ada</td>				
+					<td>28.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AGZ5</td>
 					<td>Ax 5GB+3GB JADETABEK</td>
-					<td>41.950</td> <td style="color:black;">Ada</td>				
+					<td>42.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AGZ8</td>
 					<td>Ax 8GB+4GB JADETABEK</td>
-					<td>56.350</td> <td style="color:black;">Ada</td>				
+					<td>56.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6347,43 +6856,43 @@
 				<tr>
 					<td>ABK1</td>
 					<td>Ax Bronet 1GB</td>
-					<td>13.650</td> <td style="color:black;">Ada</td>				
+					<td>13.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK2</td>
 					<td>Ax Bronet 2GB</td>
-					<td>22.700</td> <td style="color:black;">Ada</td>				
+					<td>22.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK3</td>
 					<td>Ax Bronet 3GB</td>
-					<td>28.500</td> <td style="color:black;">Ada</td>				
+					<td>28.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK5</td>
 					<td>Ax Bronet 5GB</td>
-					<td>42.200</td> <td style="color:black;">Ada</td>				
+					<td>42.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK8</td>
 					<td>Ax Bronet 8GB</td>
-					<td>56.750</td> <td style="color:black;">Ada</td>				
+					<td>57.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK10</td>
 					<td>Ax Bronet 10GB</td>
-					<td>59.950</td> <td style="color:black;">Ada</td>				
+					<td>60.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK12</td>
 					<td>Ax Bronet 12GB</td>
-					<td>70.600</td> <td style="color:black;">Ada</td>				
+					<td>70.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6395,37 +6904,37 @@
 				<tr>
 					<td>ABK1P</td>
 					<td>Ax Promo Bronet 1GB</td>
-					<td>13.650</td> <td style="color:black;">Ada</td>				
+					<td>13.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK2P</td>
 					<td>Ax Promo Bronet 2GB</td>
-					<td>22.700</td> <td style="color:black;">Ada</td>				
+					<td>22.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK3P</td>
 					<td>Ax Promo Bronet 3GB</td>
-					<td>28.500</td> <td style="color:black;">Ada</td>				
+					<td>28.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK5P</td>
 					<td>Ax Promo Bronet 5GB</td>
-					<td>42.200</td> <td style="color:black;">Ada</td>				
+					<td>42.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK8P</td>
 					<td>Ax Promo Bronet 8GB</td>
-					<td>56.750</td> <td style="color:black;">Ada</td>				
+					<td>57.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK10P</td>
 					<td>Ax Promo Bronet 10GB</td>
-					<td>59.950</td> <td style="color:black;">Ada</td>				
+					<td>60.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6443,13 +6952,13 @@
 				<tr>
 					<td>ABK25P</td>
 					<td>Ax Promo Bronet 25GB</td>
-					<td>87.550</td> <td style="color:black;">Ada</td>				
+					<td>88.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ABK50P</td>
 					<td>Ax Promo Bronet 50GB</td>
-					<td>135.750</td> <td style="color:black;">Ada</td>				
+					<td>136.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6473,7 +6982,7 @@
 				<tr>
 					<td>APD8</td>
 					<td>Ax Pure 8GB 60hr</td>
-					<td>68.000</td> <td style="color:black;">Ada</td>				
+					<td>67.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6491,85 +7000,85 @@
 				<tr>
 					<td>APD16</td>
 					<td>Ax Pure 16GB 60hr</td>
-					<td>110.700</td> <td style="color:black;">Ada</td>				
+					<td>110.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXA1</td>
+					<td>ABA1</td>
 					<td>Ax 500MB+500MB MDS(00-06)</td>
 					<td>14.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXA2</td>
+					<td>ABA2</td>
 					<td>Ax 1GB+1GB MDS(00-06)</td>
 					<td>24.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXA3</td>
+					<td>ABA3</td>
 					<td>Ax 1.5GB+1.5GB MDS(00-06)</td>
 					<td>30.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXA5</td>
+					<td>ABA5</td>
 					<td>Ax 2.5GB+2.5GB MDS(00-06)</td>
 					<td>44.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXO2</td>
+					<td>ABO2</td>
 					<td>Ax Owsem 1GB+1GB 4G+2GB Game & Musik</td>
-					<td>17.400</td> <td style="color:black;">Ada</td>				
+					<td>17.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXO4</td>
+					<td>ABO4</td>
 					<td>Ax Owsem 1GB+3GB 4G+4GB Game & Musik</td>
 					<td>29.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXO8</td>
+					<td>ABO8</td>
 					<td>Ax Owsem 2GB+6GB 4G+8GB Game & Musik</td>
 					<td>45.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXO12</td>
+					<td>ABO12</td>
 					<td>Ax Owsem 3GB+9GB 4G+12GB Game & Musik</td>
-					<td>60.150</td> <td style="color:black;">Ada</td>				
+					<td>60.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXU16</td>
+					<td>ABU16</td>
 					<td>Ax 2GB+6GB(00-06)+4GB Music+4GB Sosmed+unl Games</td>
-					<td>41.200</td> <td style="color:black;">Ada</td>				
+					<td>41.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXU24</td>
+					<td>ABU24</td>
 					<td>Ax 3GB+9GB(00-06)+6GB Music+6GB Sosmed+unl Games</td>
 					<td>42.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXU32</td>
+					<td>ABU32</td>
 					<td>Ax 4GB+12GB(00-06)+8GB Music+8GB Sosmed+unl Games</td>
 					<td>49.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXU48</td>
+					<td>ABU48</td>
 					<td>Ax 6GB+18GB(00-06)+12GB Music+12GB Sosmed+unl Games</td>
 					<td>60.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXU80</td>
+					<td>ABU80</td>
 					<td>Ax 10GB+30GB(00-06)+20GB Music+20GB Sosmed+unl Games</td>
-					<td>95.500</td> <td style="color:black;">Ada</td>				
+					<td>95.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -6629,7 +7138,7 @@
 			</tr>						
 										
 				<tr>
-					<td>AXVTLP</td>
+					<td>AVTLP</td>
 					<td>Vcr Ax telp sesama 14hr</td>
 					<td>700</td> <td style="color:black;">Ada</td>				
 				</tr>
@@ -6643,7 +7152,7 @@
 				<tr>
 					<td>AVB1</td>
 					<td>Vcr Ax Mini 1GB+1GB SKS 3hr </td>
-					<td>5.600</td> <td style="color:black;">Ada</td>				
+					<td>5.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6655,7 +7164,7 @@
 				<tr>
 					<td>AVDM1</td>
 					<td>Vcr Ax Mini 1GB+1GB SKS 5hr</td>
-					<td>7.800</td> <td style="color:black;">Ada</td>				
+					<td>7.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6667,19 +7176,19 @@
 				<tr>
 					<td>AVDM3</td>
 					<td>Vcr Ax Mini 3GB+2GB SKS 5hr</td>
-					<td>16.000</td> <td style="color:black;">Ada</td>				
+					<td>16.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AVDM5</td>
 					<td>Vcr Ax Mini 5GB+3GB SKS 5hr</td>
-					<td>19.350</td> <td style="color:black;">Ada</td>				
+					<td>19.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>AVDM6</td>
 					<td>Vcr Ax Mini 3GB+1,5GB SKS 7hr </td>
-					<td>15.850</td> <td style="color:black;">Ada</td>				
+					<td>16.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6697,199 +7206,199 @@
 				<tr>
 					<td>AVDM9</td>
 					<td>Vcr Ax Mini 14GB Nas+6GB SKS 15hr</td>
-					<td>48.550</td> <td style="color:black;">Ada</td>				
+					<td>48.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMS1</td>
+					<td>AVMS1</td>
 					<td>Vcr Ax 1GB Nas+500MB Sumatera 5hr</td>
 					<td>8.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMS2</td>
+					<td>AVMS2</td>
 					<td>Vcr Ax 2GB Nas+1GB Sumatera 7hr</td>
-					<td>15.200</td> <td style="color:black;">Ada</td>				
+					<td>15.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMS3</td>
+					<td>AVMS3</td>
 					<td>Vcr Ax 3GB Nas+2GB Sumatera 15hr</td>
-					<td>19.700</td> <td style="color:black;">Ada</td>				
+					<td>19.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMS5</td>
+					<td>AVMS5</td>
 					<td>Vcr Ax 5GB Nas+3GB Sumatera 15hr</td>
-					<td>30.850</td> <td style="color:black;">Ada</td>				
+					<td>31.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMK1</td>
+					<td>AVMK1</td>
 					<td>Vcr Ax 1GB Nas+500MB Kalimantan Sulawesi 5hr</td>
 					<td>9.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMK2</td>
+					<td>AVMK2</td>
 					<td>Vcr Ax 2GB Nas+1GB Kalimantan Sulawesi 7hr</td>
 					<td>15.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMK3</td>
+					<td>AVMK3</td>
 					<td>Vcr Ax 3GB Nas+2GB Kalimantan Sulawesi 15hr</td>
 					<td>20.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVMK5</td>
+					<td>AVMK5</td>
 					<td>Vcr Ax 5GB Nas+3GB Kalimantan Sulawesi 15hr</td>
 					<td>31.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVM1</td>
+					<td>AVM1</td>
 					<td>Vcr Ax Mini 1GB All 5hr</td>
-					<td>8.400</td> <td style="color:black;">Ada</td>				
+					<td>8.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVM2</td>
+					<td>AVM2</td>
 					<td>Vcr Ax Mini 2GB All 7hr</td>
-					<td>15.150</td> <td style="color:black;">Ada</td>				
+					<td>15.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVM3</td>
+					<td>AVM3</td>
 					<td>Vcr Ax Mini 3GB All 15hr</td>
 					<td>19.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVM5</td>
+					<td>AVM5</td>
 					<td>Vcr Ax Mini 5GB All 15hr</td>
-					<td>31.000</td> <td style="color:black;">Ada</td>				
+					<td>30.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVS1</td>
+					<td>AVS1</td>
 					<td>Vcr Ax 1GB Nas+500MB Sumatera</td>
-					<td>13.100</td> <td style="color:black;">Ada</td>				
+					<td>13.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVS2</td>
+					<td>AVS2</td>
 					<td>Vcr Ax 2GB Nas+1GB Sumatera</td>
-					<td>22.300</td> <td style="color:black;">Ada</td>				
+					<td>22.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVS3</td>
+					<td>AVS3</td>
 					<td>Vcr Ax 3GB Nas+2GB Sumatera</td>
-					<td>28.100</td> <td style="color:black;">Ada</td>				
+					<td>28.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVS5</td>
+					<td>AVS5</td>
 					<td>Vcr Ax 5GB Nas+3GB Sumatera</td>
-					<td>42.450</td> <td style="color:black;">Ada</td>				
+					<td>42.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVS8</td>
+					<td>AVS8</td>
 					<td>Vcr Ax 8GB Nas+4GB Sumatera</td>
-					<td>56.850</td> <td style="color:black;">Ada</td>				
+					<td>57.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVK1</td>
+					<td>AVK1</td>
 					<td>Vcr Ax 1GB Nas+500MB Kalimantan Sulawesi</td>
 					<td>13.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVK2</td>
+					<td>AVK2</td>
 					<td>Vcr Ax 2GB Nas+1GB Kalimantan Sulawesi</td>
 					<td>22.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVK3</td>
+					<td>AVK3</td>
 					<td>Vcr Ax 3GB Nas+2GB Kalimantan Sulawesi</td>
 					<td>29.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVK5</td>
+					<td>AVK5</td>
 					<td>Vcr Ax 5GB Nas+3GB Kalimantan Sulawesi</td>
 					<td>43.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVK8</td>
+					<td>AVK8</td>
 					<td>Vcr Ax 8GB Nas+4GB Kalimantan Sulawesi</td>
 					<td>60.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV1</td>
+					<td>AV1</td>
 					<td>Vcr Ax 1GB</td>
 					<td>13.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV2</td>
+					<td>AV2</td>
 					<td>Vcr Ax 2GB</td>
 					<td>22.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV3</td>
+					<td>AV3</td>
 					<td>Vcr Ax 3GB</td>
 					<td>28.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV5</td>
+					<td>AV5</td>
 					<td>Vcr Ax 5GB</td>
 					<td>42.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV8</td>
+					<td>AV8</td>
 					<td>Vcr Ax 8GB</td>
 					<td>56.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV10</td>
+					<td>AV10</td>
 					<td>Vcr Ax 10GB all</td>
-					<td>57.750</td> <td style="color:black;">Ada</td>				
+					<td>57.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV12</td>
+					<td>AV12</td>
 					<td>Vcr Ax 12GB all</td>
-					<td>68.200</td> <td style="color:black;">Ada</td>				
+					<td>68.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV15</td>
+					<td>AV15</td>
 					<td>Vcr Ax 15GB all</td>
-					<td>77.750</td> <td style="color:black;">Ada</td>				
+					<td>78.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV25</td>
+					<td>AV25</td>
 					<td>Vcr Ax 25GB all 60hr</td>
-					<td>86.500</td> <td style="color:black;">Ada</td>				
+					<td>86.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXV50</td>
+					<td>AV50</td>
 					<td>Vcr Ax 50GB all 60hr</td>
-					<td>134.500</td> <td style="color:black;">Ada</td>				
+					<td>134.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6917,33 +7426,33 @@
 				</tr>
 											
 				<tr>
-					<td>AXVL2</td>
+					<td>AVL2</td>
 					<td>Vcr Ax 1GB all+1GB 4G+2GB Games</td>
-					<td>18.700</td> <td style="color:black;">Ada</td>				
+					<td>18.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVL4</td>
+					<td>AVL4</td>
 					<td>Vcr Ax 1GB all+3GB 4G+4GB Games</td>
-					<td>30.450</td> <td style="color:black;">Ada</td>				
+					<td>30.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVL8</td>
+					<td>AVL8</td>
 					<td>Vcr Ax 2GB all+6GB 4G+8GB Games</td>
 					<td>47.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
-					<td>AXVL12</td>
+					<td>AVL12</td>
 					<td>Vcr Ax 3GB all+9GB 4G+12GB Games</td>
-					<td>61.950</td> <td style="color:black;">Ada</td>				
+					<td>62.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADVOM5</td>
 					<td>Vcr Ax 2GB+10GB Malam 5hr</td>
-					<td>17.150</td> <td style="color:black;">Ada</td>				
+					<td>17.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -6955,19 +7464,19 @@
 				<tr>
 					<td>ADVOM24</td>
 					<td>Vcr Ax 3GB+9GB Malam+6GB Musik+6GB Sosmed+Unli Games</td>
-					<td>42.400</td> <td style="color:black;">Ada</td>				
+					<td>42.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADVOM32</td>
 					<td>Vcr Ax 4GB+12GB Malam+8GB Musik+8GB Sosmed+Unli Games</td>
-					<td>49.200</td> <td style="color:black;">Ada</td>				
+					<td>49.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>ADVOM48</td>
 					<td>Vcr Ax 6GB+18GB Malam+12GB Musik+12GB Sosmed+Unli Games</td>
-					<td>60.900</td> <td style="color:black;">Ada</td>				
+					<td>60.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -7149,7 +7658,7 @@
 				<tr>
 					<td>T30</td>
 					<td>Tri reguler 30rb (+30H)</td>
-					<td>29.300</td> <td style="color:black;">Ada</td>				
+					<td>29.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7186,19 +7695,19 @@
 				<tr>
 					<td>TMR1</td>
 					<td>Tri murah 1rb</td>
-					<td>1.500</td> <td style="color:black;">Ada</td>				
+					<td>1.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR2</td>
 					<td>Tri murah 2rb</td>
-					<td>2.450</td> <td style="color:black;">Ada</td>				
+					<td>2.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR3</td>
 					<td>Tri murah 3rb</td>
-					<td>3.400</td> <td style="color:black;">Ada</td>				
+					<td>3.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7210,103 +7719,115 @@
 				<tr>
 					<td>TMR5</td>
 					<td>Tri murah 5rb</td>
-					<td>5.300</td> <td style="color:black;">Ada</td>				
+					<td>5.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR10</td>
 					<td>Tri murah 10rb</td>
-					<td>10.050</td> <td style="color:black;">Ada</td>				
+					<td>10.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR15</td>
 					<td>Tri murah 15rb</td>
-					<td>14.700</td> <td style="color:black;">Ada</td>				
+					<td>14.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR20</td>
 					<td>Tri murah 20rb</td>
-					<td>19.450</td> <td style="color:black;">Ada</td>				
+					<td>19.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR25</td>
 					<td>Tri murah 25rb</td>
-					<td>24.150</td> <td style="color:black;">Ada</td>				
+					<td>24.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR30</td>
 					<td>Tri murah 30rb</td>
-					<td>28.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>TMR35</td>
-					<td>Tri murah 35rb</td>
-					<td>33.750</td> <td style="color:black;">Ada</td>				
+					<td>29.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR40</td>
 					<td>Tri murah 40rb</td>
-					<td>38.250</td> <td style="color:black;">Ada</td>				
+					<td>38.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR45</td>
 					<td>Tri murah 45rb</td>
-					<td>43.200</td> <td style="color:black;">Ada</td>				
+					<td>43.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR50</td>
 					<td>Tri murah 50rb</td>
-					<td>47.900</td> <td style="color:black;">Ada</td>				
+					<td>48.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>TMR55</td>
+					<td>Tri murah 55rb</td>
+					<td>52.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR60</td>
 					<td>Tri murah 60rb</td>
-					<td>56.950</td> <td style="color:black;">Ada</td>				
+					<td>57.250</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>TMR65</td>
+					<td>Tri murah 65rb</td>
+					<td>62.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR70</td>
 					<td>Tri murah 70rb</td>
-					<td>66.300</td> <td style="color:black;">Ada</td>				
+					<td>66.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR75</td>
 					<td>Tri murah 75rb</td>
-					<td>71.000</td> <td style="color:black;">Ada</td>				
+					<td>71.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR80</td>
 					<td>Tri murah 80rb</td>
-					<td>75.650</td> <td style="color:black;">Ada</td>				
+					<td>76.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR85</td>
 					<td>Tri murah 85rb</td>
-					<td>80.750</td> <td style="color:black;">Ada</td>				
+					<td>81.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR90</td>
 					<td>Tri murah 90rb</td>
-					<td>85.000</td> <td style="color:black;">Ada</td>				
+					<td>85.450</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>TMR95</td>
+					<td>Tri murah 95rb</td>
+					<td>90.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TMR100</td>
 					<td>Tri murah 100rb</td>
-					<td>94.650</td> <td style="color:black;">Ada</td>				
+					<td>95.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7422,7 +7943,7 @@
 				<tr>
 					<td>TMA4</td>
 					<td>Tri tambah masa aktif 4bln</td>
-					<td>4.600</td> <td style="color:black;">Ada</td>				
+					<td>3.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -7471,37 +7992,37 @@
 				<tr>
 					<td>TAON8</td>
 					<td>Tri AON 8GB MasaAktifKartu(MAK)</td>
-					<td>44.950</td> <td style="color:black;">Ada</td>				
+					<td>44.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAON16</td>
 					<td>Tri AON 16GB MasaAktifKartu(MAK)</td>
-					<td>83.800</td> <td style="color:black;">Ada</td>				
+					<td>83.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAONUL6</td>
 					<td>Tri AON 6GB (MAK)+unl app(01-17) 30hr</td>
-					<td>60.400</td> <td style="color:black;">Ada</td>				
+					<td>59.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAONUL10</td>
 					<td>Tri AON 10GB (MAK)+unl app(01-17) 30hr</td>
-					<td>81.100</td> <td style="color:black;">Ada</td>				
+					<td>80.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAONUL16</td>
 					<td>Tri AON 16GB (MAK)+unl app(01-17) 30hr</td>
-					<td>102.850</td> <td style="color:black;">Ada</td>				
+					<td>102.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAON22</td>
 					<td>Tri AON 4GB (MAK)+8GB+10GB(01:06)+Unl Youtube/Viu</td>
-					<td>64.650</td> <td style="color:black;">Ada</td>				
+					<td>65.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7561,7 +8082,7 @@
 				<tr>
 					<td>TRD300</td>
 					<td>Tri 300MB</td>
-					<td>9.800</td> <td style="color:black;">Ada</td>				
+					<td>9.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7585,7 +8106,7 @@
 				<tr>
 					<td>TRV17</td>
 					<td>Tri 1GB+4GB(01-09) 1hr</td>
-					<td>5.150</td> <td style="color:black;">Ada</td>				
+					<td>5.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7633,7 +8154,7 @@
 				<tr>
 					<td>TRV15</td>
 					<td>Tri 1,75GB all+2GB 4G 7hr</td>
-					<td>25.050</td> <td style="color:black;">Ada</td>				
+					<td>24.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7669,31 +8190,31 @@
 				<tr>
 					<td>THP12</td>
 					<td>Tri Happy 12GB Nas,30hr</td>
-					<td>49.900</td> <td style="color:black;">Ada</td>				
+					<td>49.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>THP18</td>
 					<td>Tri Happy 18GB Nas,30hr</td>
-					<td>68.500</td> <td style="color:black;">Ada</td>				
+					<td>67.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>THP25</td>
 					<td>Tri Happy 25GB Nas,30hr</td>
-					<td>92.500</td> <td style="color:black;">Ada</td>				
+					<td>91.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TRV23</td>
 					<td>Tri 10GB 4G 30hr</td>
-					<td>50.150</td> <td style="color:black;">Ada</td>				
+					<td>50.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TRV20</td>
 					<td>Tri 4GB all+20GB 4G 30hr</td>
-					<td>89.300</td> <td style="color:black;">Ada</td>				
+					<td>89.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7717,13 +8238,13 @@
 				<tr>
 					<td>TRV22</td>
 					<td>Tri 5GB+30GB(1GB/hr)+30mnt 30hr</td>
-					<td>79.600</td> <td style="color:black;">Ada</td>				
+					<td>79.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TRV26</td>
 					<td>Tri 8GB+30GB(1GB/hr) 4G+30mnt allOpr 30hr</td>
-					<td>92.700</td> <td style="color:black;">Ada</td>				
+					<td>92.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7765,13 +8286,13 @@
 				<tr>
 					<td>TNM5</td>
 					<td>Tri Netmax 500MB+5GB(00-12) 30hr</td>
-					<td>40.900</td> <td style="color:black;">Ada</td>				
+					<td>41.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TNM7</td>
 					<td>Tri Netmax 2GB+5GB(00-12) 30hr</td>
-					<td>71.200</td> <td style="color:black;">Ada</td>				
+					<td>70.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7808,7 +8329,7 @@
 				<tr>
 					<td>TVL24</td>
 					<td>Vcr Tri 12GB+6GB+6GB malam</td>
-					<td>85.700</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
@@ -7820,19 +8341,19 @@
 				<tr>
 					<td>TVGM2</td>
 					<td>Vcr Tri Get More 2GB 3G/4G 60hr+2GB youtube MDS(01-17) 30hr</td>
-					<td>23.350</td> <td style="color:black;">Ada</td>				
+					<td>23.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TVGM3</td>
 					<td>Vcr Tri Get More 3GB 3G/4G 60hr+2GB youtube MDS(01-17) 30hr</td>
-					<td>36.750</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
 					<td>TVGM5</td>
 					<td>Vcr Tri Get More 5GB 3G/4G 60hr+5GB youtube MDS(01-17) 30hr</td>
-					<td>46.500</td> <td style="color:black;">Ada</td>				
+					<td>46.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7886,13 +8407,13 @@
 				<tr>
 					<td>TVD2</td>
 					<td>Vcr Tri 2GB+3GB 4G 30hr</td>
-					<td>33.650</td> <td style="color:black;">Ada</td>				
+					<td>33.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TVD6</td>
 					<td>Vcr Tri 6GB+12GB+Youtube 30hr</td>
-					<td>85.700</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
@@ -7946,7 +8467,7 @@
 				<tr>
 					<td>TVLJ3</td>
 					<td>Vcr Tri 1.5GB Lokal Jabodetabek 7hr</td>
-					<td>12.600</td> <td style="color:black;">Ada</td>				
+					<td>12.200</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -7958,7 +8479,7 @@
 				<tr>
 					<td>TVLJ1</td>
 					<td>Vcr Tri 1GB+1GB Lokal Jabodetabek 30hr</td>
-					<td>18.650</td> <td style="color:black;">Ada</td>				
+					<td>18.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8048,7 +8569,7 @@
 				<tr>
 					<td>TVBP4</td>
 					<td>Vcr Tri PM4GB+(18GB Lokal+Unl Youtube Lokal,30hr) [BIMEDANG]</td>
-					<td>80.500</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
@@ -8182,7 +8703,7 @@
 				<tr>
 					<td>TVREG</td>
 					<td>Registrasi V-Tri</td>
-					<td>1</td> <td style="color:black;">Ada</td>				
+					<td>50</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8212,7 +8733,7 @@
 				<tr>
 					<td>TVS500</td>
 					<td>Tembak saldo V-Tri 500rb</td>
-					<td>487.000</td> <td style="color:black;">Ada</td>				
+					<td>486.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8237,7 +8758,7 @@
 				<tr>
 					<td>TKPK2</td>
 					<td>Tri KPK AON (1GB+5mnt sesama)</td>
-					<td>4.300</td> <td style="color:black;">Ada</td>				
+					<td>4.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8249,13 +8770,13 @@
 				<tr>
 					<td>TKPB1</td>
 					<td>Vcr Tri Zero 1GB 5hr lokal</td>
-					<td>8.400</td> <td style="color:black;">Ada</td>				
+					<td>8.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TKPB2</td>
 					<td>Vcr Tri Zero 1,5GB 7hr lokal</td>
-					<td>11.400</td> <td style="color:black;">Ada</td>				
+					<td>11.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8285,13 +8806,13 @@
 				<tr>
 					<td>TKPA8</td>
 					<td>Vcr Tri Zero 7GB nas+1GB lokal</td>
-					<td>44.500</td> <td style="color:black;">Ada</td>				
+					<td>44.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TKPA16</td>
 					<td>Vcr Tri Zero 15GB nas+1GB lokal</td>
-					<td>83.700</td> <td style="color:black;">Ada</td>				
+					<td>83.900</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8319,9 +8840,69 @@
 			</tr>						
 										
 				<tr>
+					<td>SFMO5</td>
+					<td>SFren Mochan 5rb</td>
+					<td>5.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO10</td>
+					<td>SFren Mochan 10rb</td>
+					<td>9.950</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO15</td>
+					<td>SFren Mochan 15rb</td>
+					<td>14.900</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO20</td>
+					<td>SFren Mochan 20rb</td>
+					<td>19.850</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO25</td>
+					<td>SFren Mochan 25rb</td>
+					<td>24.500</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO30</td>
+					<td>SFren Mochan 30rb</td>
+					<td>29.400</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO50</td>
+					<td>SFren Mochan 50rb</td>
+					<td>49.100</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO60</td>
+					<td>SFren Mochan 60rb</td>
+					<td>59.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO75</td>
+					<td>SFren Mochan 75rb</td>
+					<td>74.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>SFMO100</td>
+					<td>SFren Mochan 100rb</td>
+					<td>97.200</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
 					<td>SF5</td>
 					<td>SFren 5rb</td>
-					<td>5.000</td> <td style="color:black;">Ada</td>				
+					<td>5.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8345,25 +8926,25 @@
 				<tr>
 					<td>SF20</td>
 					<td>SFren 20rb</td>
-					<td>19.800</td> <td style="color:black;">Ada</td>				
+					<td>19.850</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SF25</td>
 					<td>SFren 25rb</td>
-					<td>24.550</td> <td style="color:black;">Ada</td>				
+					<td>24.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SF30</td>
 					<td>SFren 30rb</td>
-					<td>29.700</td> <td style="color:black;">Ada</td>				
+					<td>29.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SF50</td>
 					<td>SFren 50rb</td>
-					<td>48.950</td> <td style="color:black;">Ada</td>				
+					<td>49.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8375,19 +8956,19 @@
 				<tr>
 					<td>SF70</td>
 					<td>SFren 70rb</td>
-					<td>69.450</td> <td style="color:black;">Ada</td>				
+					<td>69.150</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SF75</td>
 					<td>SFren 75rb</td>
-					<td>73.950</td> <td style="color:black;">Ada</td>				
+					<td>74.050</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SF80</td>
 					<td>SFren 80rb</td>
-					<td>79.450</td> <td style="color:black;">Ada</td>				
+					<td>78.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8424,7 +9005,7 @@
 				<tr>
 					<td>SFDO1</td>
 					<td>SFren ION+ MasaAktif 365 hari+500MB/bln (6bln)</td>
-					<td>16.350</td> <td style="color:black;">Ada</td>				
+					<td>16.300</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8436,7 +9017,7 @@
 				<tr>
 					<td>SFDO3</td>
 					<td>SFren ION+ MasaAktif 365 hari+3GB/bln (6bln)</td>
-					<td>54.150</td> <td style="color:black;">Ada</td>				
+					<td>54.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8472,19 +9053,19 @@
 				<tr>
 					<td>SFDU50</td>
 					<td>SFren Unlimited FUP 500MB/hr 28hr</td>
-					<td>53.950</td> <td style="color:black;">Ada</td>				
+					<td>54.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDU99</td>
 					<td>SFren Unlimited FUP 1GB/hr 28hr</td>
-					<td>77.100</td> <td style="color:black;">Ada</td>				
+					<td>77.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFD6</td>
 					<td>SFren 6GB+NONSTOP 28hr</td>
-					<td>27.650</td> <td style="color:black;">Ada</td>				
+					<td>28.450</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8502,25 +9083,25 @@
 				<tr>
 					<td>SFD30</td>
 					<td>SFren 30GB+NONSTOP 28hr</td>
-					<td>93.900</td> <td style="color:black;">Ada</td>				
+					<td>94.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDM50</td>
 					<td>SFren 1GB+10mnt allOpr+100SMS</td>
-					<td>50.300</td> <td style="color:black;">Ada</td>				
+					<td>50.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDM60</td>
 					<td>SFren 2GB+10mnt allOpr+100SMS</td>
-					<td>56.200</td> <td style="color:black;">Ada</td>				
+					<td>56.750</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDM75</td>
 					<td>SFren 3GB+10mnt allOpr+100SMS</td>
-					<td>71.000</td> <td style="color:black;">Ada</td>				
+					<td>71.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8532,13 +9113,13 @@
 				<tr>
 					<td>SFDM150</td>
 					<td>SFren 9GB+10mnt allOpr+100SMS</td>
-					<td>135.850</td> <td style="color:black;">Ada</td>				
+					<td>136.950</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDM200</td>
 					<td>SFren 14GB+10mnt allOpr+100SMS</td>
-					<td>180.000</td> <td style="color:black;">Ada</td>				
+					<td>181.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8604,31 +9185,31 @@
 				<tr>
 					<td>SFDB30</td>
 					<td>SFren 4GB+4GB(01-05)+2GB chat</td>
-					<td>27.700</td> <td style="color:black;">Ada</td>				
+					<td>28.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDB60</td>
 					<td>SFren 10GB+20GB(01-05)+free HOOQ</td>
-					<td>55.950</td> <td style="color:black;">Ada</td>				
+					<td>56.250</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDB100</td>
 					<td>SFren 20GB+40GB(01-05)+free HOOQ+SFrenMusic</td>
-					<td>92.600</td> <td style="color:black;">Ada</td>				
+					<td>92.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDB150</td>
 					<td>SFren 30GB+60GB(01-05)+free HOOQ+SFrenMusic</td>
-					<td>135.200</td> <td style="color:black;">Ada</td>				
+					<td>135.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFDB200</td>
 					<td>SFren 40GB+80GB(01-05)+free HOOQ+SFrenMusic</td>
-					<td>179.200</td> <td style="color:black;">Ada</td>				
+					<td>179.700</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8725,13 +9306,13 @@
 				<tr>
 					<td>SFV5</td>
 					<td>Vcr SFren 5GB+5GB(01-05)</td>
-					<td>29.500</td> <td style="color:black;">Ada</td>				
+					<td>31.500</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFV8</td>
 					<td>Vcr SFren 8GB+8GB(01-05)</td>
-					<td>43.050</td> <td style="color:black;">Ada</td>				
+					<td>47.600</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8743,13 +9324,13 @@
 				<tr>
 					<td>SFV30</td>
 					<td>Vcr SFren 30GB+30GB(01-05)</td>
-					<td>102.000</td> <td style="color:black;">Ada</td>				
+					<td>102.550</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SFVU20</td>
 					<td>Vcr SFren unl (FUP 1GB/hr) 5hr</td>
-					<td>19.350</td> <td style="color:black;">Ada</td>				
+					<td>19.400</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8773,7 +9354,7 @@
 				<tr>
 					<td>SFVN6</td>
 					<td>Vcr SFren 6GB+NONSTOP 28hr</td>
-					<td>27.950</td> <td style="color:black;">Ada</td>				
+					<td>28.350</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -8947,7 +9528,7 @@
 				<tr>
 					<td>GOJEK250</td>
 					<td>GO-PAY 250.000</td>
-					<td>251.450</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
@@ -9098,7 +9679,7 @@
 				<tr>
 					<td>GOJEKD400</td>
 					<td>GOPAY Driver 400.000</td>
-					<td>400.650</td> <td style="color:black;">Ada</td>				
+					<td>1</td> <td style="color:red;">Gangguan</td>				
 				</tr>
 											
 				<tr>
@@ -9123,25 +9704,25 @@
 				<tr>
 					<td>OVO20</td>
 					<td>Saldo OVO 20rb</td>
-					<td>21.100</td> <td style="color:black;">Ada</td>				
+					<td>21.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO25</td>
 					<td>Saldo OVO 25rb</td>
-					<td>26.100</td> <td style="color:black;">Ada</td>				
+					<td>26.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO30</td>
 					<td>Saldo OVO 30rb</td>
-					<td>31.100</td> <td style="color:black;">Ada</td>				
+					<td>31.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO40</td>
 					<td>Saldo OVO 40rb</td>
-					<td>41.150</td> <td style="color:black;">Ada</td>				
+					<td>41.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -9153,7 +9734,7 @@
 				<tr>
 					<td>OVO50</td>
 					<td>Saldo OVO 50rb</td>
-					<td>51.100</td> <td style="color:black;">Ada</td>				
+					<td>51.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -9165,7 +9746,7 @@
 				<tr>
 					<td>OVO60</td>
 					<td>Saldo OVO 60rb</td>
-					<td>61.150</td> <td style="color:black;">Ada</td>				
+					<td>61.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -9177,97 +9758,97 @@
 				<tr>
 					<td>OVO70</td>
 					<td>Saldo OVO 70rb</td>
-					<td>71.150</td> <td style="color:black;">Ada</td>				
+					<td>71.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO75</td>
 					<td>Saldo OVO 75rb</td>
-					<td>76.100</td> <td style="color:black;">Ada</td>				
+					<td>76.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO80</td>
 					<td>Saldo OVO 80rb</td>
-					<td>81.150</td> <td style="color:black;">Ada</td>				
+					<td>81.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO90</td>
 					<td>Saldo OVO 90rb</td>
-					<td>91.150</td> <td style="color:black;">Ada</td>				
+					<td>91.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO100</td>
 					<td>Saldo OVO 100rb</td>
-					<td>101.100</td> <td style="color:black;">Ada</td>				
+					<td>101.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO150</td>
 					<td>Saldo OVO 150rb</td>
-					<td>151.100</td> <td style="color:black;">Ada</td>				
+					<td>151.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO200</td>
 					<td>Saldo OVO 200rb</td>
-					<td>201.100</td> <td style="color:black;">Ada</td>				
+					<td>201.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO250</td>
 					<td>Saldo OVO 250rb</td>
-					<td>251.100</td> <td style="color:black;">Ada</td>				
+					<td>251.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO300</td>
 					<td>Saldo OVO 300rb</td>
-					<td>301.100</td> <td style="color:black;">Ada</td>				
+					<td>301.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO400</td>
 					<td>Saldo OVO 400rb</td>
-					<td>401.100</td> <td style="color:black;">Ada</td>				
+					<td>401.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO500</td>
 					<td>Saldo OVO 500rb</td>
-					<td>501.100</td> <td style="color:black;">Ada</td>				
+					<td>501.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO600</td>
 					<td>Saldo OVO 600rb</td>
-					<td>601.150</td> <td style="color:black;">Ada</td>				
+					<td>601.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO700</td>
 					<td>Saldo OVO 700rb</td>
-					<td>701.150</td> <td style="color:black;">Ada</td>				
+					<td>701.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO800</td>
 					<td>Saldo OVO 800rb</td>
-					<td>801.150</td> <td style="color:black;">Ada</td>				
+					<td>801.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO900</td>
 					<td>Saldo OVO 900rb</td>
-					<td>901.150</td> <td style="color:black;">Ada</td>				
+					<td>901.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>OVO1000</td>
 					<td>Saldo OVO 1 Juta</td>
-					<td>1.001.150</td> <td style="color:black;">Ada</td>				
+					<td>1.001.000</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -9533,7 +10114,7 @@
 				<tr>
 					<td>LA150</td>
 					<td>Saldo LinkAja 150.000</td>
-					<td>150.600</td> <td style="color:black;">Ada</td>				
+					<td>150.650</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
@@ -9697,37 +10278,37 @@
 				<tr>
 					<td>TAPCASH10</td>
 					<td>TAPCASH BNI 10.000</td>
-					<td>11.750</td> <td style="color:black;">Ada</td>				
+					<td>11.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAPCASH20</td>
 					<td>TAPCASH BNI 20.000</td>
-					<td>21.650</td> <td style="color:black;">Ada</td>				
+					<td>21.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAPCASH50</td>
 					<td>TAPCASH BNI 50.000</td>
-					<td>51.750</td> <td style="color:black;">Ada</td>				
+					<td>51.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAPCASH100</td>
 					<td>TAPCASH BNI 100.000</td>
-					<td>101.750</td> <td style="color:black;">Ada</td>				
+					<td>102.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAPCASH250</td>
 					<td>TAPCASH BNI 250.000</td>
-					<td>251.750</td> <td style="color:black;">Ada</td>				
+					<td>251.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>TAPCASH500</td>
 					<td>TAPCASH BNI 500.000</td>
-					<td>501.750</td> <td style="color:black;">Ada</td>				
+					<td>501.800</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -9740,49 +10321,49 @@
 				<tr>
 					<td>SBRI20</td>
 					<td>Saldo BRIZZI 20rb</td>
-					<td>21.000</td> <td style="color:black;">Ada</td>				
+					<td>21.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI25</td>
 					<td>Saldo BRIZZI 25rb</td>
-					<td>26.000</td> <td style="color:black;">Ada</td>				
+					<td>26.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI50</td>
 					<td>Saldo BRIZZI 50rb</td>
-					<td>51.000</td> <td style="color:black;">Ada</td>				
+					<td>51.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI100</td>
 					<td>Saldo BRIZZI 100rb</td>
-					<td>101.000</td> <td style="color:black;">Ada</td>				
+					<td>101.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI200</td>
 					<td>Saldo BRIZZI 200rb</td>
-					<td>201.000</td> <td style="color:black;">Ada</td>				
+					<td>201.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI300</td>
 					<td>Saldo BRIZZI 300rb</td>
-					<td>301.000</td> <td style="color:black;">Ada</td>				
+					<td>301.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI400</td>
 					<td>Saldo BRIZZI 400rb</td>
-					<td>401.000</td> <td style="color:black;">Ada</td>				
+					<td>401.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 											
 				<tr>
 					<td>SBRI500</td>
 					<td>Saldo BRIZZI 500rb</td>
-					<td>501.000</td> <td style="color:black;">Ada</td>				
+					<td>501.100</td> <td style="color:black;">Ada</td>				
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr>				
 			<tr class="head">
@@ -10260,252 +10841,6 @@
 					<td>Bukalapak 300.000</td>
 					<td>301.400</td> <td style="color:black;">Ada</td>				
 				</tr>
-											
-				<tr>
-					<td>ISAKU10</td>
-					<td>I-SAKU 10.000</td>
-					<td>11.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU15</td>
-					<td>I-SAKU 15.000</td>
-					<td>16.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU20</td>
-					<td>I-SAKU 20.000</td>
-					<td>21.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU25</td>
-					<td>I-SAKU 25.000</td>
-					<td>26.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU30</td>
-					<td>I-SAKU 30.000</td>
-					<td>31.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU35</td>
-					<td>I-SAKU 35.000</td>
-					<td>36.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU40</td>
-					<td>I-SAKU 40.000</td>
-					<td>41.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU50</td>
-					<td>I-SAKU 50.000</td>
-					<td>51.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU55</td>
-					<td>I-SAKU 55.000</td>
-					<td>56.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU60</td>
-					<td>I-SAKU 60.000</td>
-					<td>61.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU65</td>
-					<td>I-SAKU 65.000</td>
-					<td>66.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU70</td>
-					<td>I-SAKU 70.000</td>
-					<td>71.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU75</td>
-					<td>I-SAKU 75.000</td>
-					<td>76.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU80</td>
-					<td>I-SAKU 80.000</td>
-					<td>81.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU85</td>
-					<td>I-SAKU 85.000</td>
-					<td>86.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU90</td>
-					<td>I-SAKU 90.000</td>
-					<td>91.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU95</td>
-					<td>I-SAKU 95.000</td>
-					<td>96.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU100</td>
-					<td>I-SAKU 100.000</td>
-					<td>101.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU150</td>
-					<td>I-SAKU 150.000</td>
-					<td>151.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>ISAKU200</td>
-					<td>I-SAKU 200.000</td>
-					<td>201.000</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU10</td>
-					<td>Sakuku 10.000</td>
-					<td>10.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU15</td>
-					<td>Sakuku 15.000</td>
-					<td>15.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU20</td>
-					<td>Sakuku 20.000</td>
-					<td>20.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU25</td>
-					<td>Sakuku 25.000</td>
-					<td>25.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU30</td>
-					<td>Sakuku 30.000</td>
-					<td>30.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU35</td>
-					<td>Sakuku 35.000</td>
-					<td>35.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU40</td>
-					<td>Sakuku 40.000</td>
-					<td>40.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU45</td>
-					<td>Sakuku 45.000</td>
-					<td>45.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU50</td>
-					<td>Sakuku 50.000</td>
-					<td>50.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU55</td>
-					<td>Sakuku 55.000</td>
-					<td>55.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU60</td>
-					<td>Sakuku 60.000</td>
-					<td>60.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU65</td>
-					<td>Sakuku 65.000</td>
-					<td>65.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU70</td>
-					<td>Sakuku 70.000</td>
-					<td>70.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU75</td>
-					<td>Sakuku 75.000</td>
-					<td>75.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU80</td>
-					<td>Sakuku 80.000</td>
-					<td>80.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU85</td>
-					<td>Sakuku 85.000</td>
-					<td>85.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU90</td>
-					<td>Sakuku 90.000</td>
-					<td>90.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU95</td>
-					<td>Sakuku 95.000</td>
-					<td>95.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU100</td>
-					<td>Sakuku 100.000</td>
-					<td>100.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU150</td>
-					<td>Sakuku 150.000</td>
-					<td>150.900</td> <td style="color:black;">Ada</td>				
-				</tr>
-											
-				<tr>
-					<td>SAKU200</td>
-					<td>Sakuku 200.000</td>
-					<td>200.900</td> <td style="color:black;">Ada</td>				
-				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr><tr><th style="border: none" colspan="6"><br></th></tr>
 		
 		<tr class="head">
@@ -10794,6 +11129,78 @@
 			</tr>						
 										
 				<tr>
+					<td>GPV5</td>
+					<td>Google Play Rp 5.000 Region Indonesia</td>
+					<td>6.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPV20</td>
+					<td>Google Play Rp 20.000 Region Indonesia</td>
+					<td>25.550</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPV50</td>
+					<td>Google Play Rp 50.000 Region Indonesia</td>
+					<td>51.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPV100</td>
+					<td>Google Play Rp 100.000 Region Indonesia</td>
+					<td>109.950</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPV150</td>
+					<td>Google Play Rp 150.000 Region Indonesia</td>
+					<td>165.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPV300</td>
+					<td>Google Play Rp 300.000 Region Indonesia</td>
+					<td>329.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPV500</td>
+					<td>Google Play Rp 500.000 Region Indonesia</td>
+					<td>571.050</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPVUS10</td>
+					<td>Google Play 10$ USA Region</td>
+					<td>158.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPVUS15</td>
+					<td>Google Play 15$ USA Region</td>
+					<td>227.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPVUS25</td>
+					<td>Google Play 25$ USA Region</td>
+					<td>367.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPVUS50</td>
+					<td>Google Play 50$ USA Region</td>
+					<td>706.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
+					<td>GPVUS100</td>
+					<td>Google Play 100$ USA Region</td>
+					<td>1.356.000</td> <td style="color:black;">Ada</td>				
+				</tr>
+											
+				<tr>
 					<td>ORG50</td>
 					<td>Orange TV 50rb</td>
 					<td>46.000</td> <td style="color:black;">Ada</td>				
@@ -10818,4 +11225,5 @@
 				</tr>
 				<tr><th style="border: none" colspan="6"><br></th></tr><tr><th style="border: none" colspan="6"><br></th></tr>	
 </tbody></table></div>
+
 </body></html>
